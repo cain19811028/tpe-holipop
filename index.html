@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TPE-HoliPop | 台北假日活動雷達・週末好去處</title>
+  <meta name="description" content="專為台北生活圈打造的週末與國定假日快閃店、動漫展演、文創市集、親子出遊地圖雷達。自動排除商業週年慶促銷，鎖定假日精彩展覽。">
+  <meta name="keywords" content="台北快閃店, 台北展覽, 華山1914, 松山文創, 台北週末去處, 動漫快閃, 假日市集, 台北親子活動">
+  <meta name="theme-color" content="#080c14">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="TPE-HoliPop | 台北假日活動雷達">
+  <meta property="og:description" content="鎖定週休二日與連假！自動過濾百貨週年慶，專屬台北的快閃展演與親子市集地圖。">
+  <meta property="og:type" content="website">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <!-- Leaflet MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header class="app-header" id="app-header">
+    <div class="brand-wrapper" id="brand-home" title="重設地圖中心">
+      <div class="brand-icon">
+        <span>⚡</span>
+      </div>
+      <div class="brand-info">
+        <h1 class="brand-title">TPE-HoliPop</h1>
+        <div class="brand-status-wrap">
+          <span class="brand-badge" id="brand-status">台北假日活動雷達</span>
+          <span class="brand-updated" id="brand-updated" title="資料最後更新時間">同步中...</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Time Scope Segment Filter -->
+    <nav class="time-filter-group" id="time-filter-group" aria-label="時間範圍篩選">
+      <button class="time-pill-btn active" id="time-pill-weekend" data-time="weekend">
+        <span>本週末 (六/日)</span>
+        <span class="pill-count" id="count-weekend">0</span>
+      </button>
+      <button class="time-pill-btn" id="time-pill-holiday" data-time="holiday">
+        <span>近期連假</span>
+        <span class="pill-count" id="count-holiday">0</span>
+      </button>
+      <button class="time-pill-btn" id="time-pill-all" data-time="all">
+        <span>全部假日</span>
+        <span class="pill-count" id="count-all">0</span>
+      </button>
+    </nav>
+
+    <!-- Header Actions -->
+    <div class="header-actions">
+      <!-- Search Box -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="搜尋展覽、親子、市集、地標..." autocomplete="off">
+      </div>
+
+      <!-- Quick Locate Me -->
+      <button class="icon-btn" id="btn-locate" title="定位我的位置" aria-label="定位我的位置">
+        <span>📍</span>
+      </button>
+
+      <!-- Toggle Drawer Button -->
+      <button class="btn-drawer-toggle" id="btn-toggle-drawer" aria-label="開啟活動清單">
+        <span>📋</span>
+        <span>活動清單</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Viewport -->
+  <main class="main-viewport" id="main-viewport">
+    
+    <!-- Floating Hotspot Quick Jump Bar -->
+    <div class="quick-zones-bar" id="quick-zones-bar" aria-label="熱門展區快速跳轉">
+      <button class="zone-chip" data-zone="huashan" data-lat="25.0446" data-lng="121.5292" data-zoom="16">🏛️ 華山1914</button>
+      <button class="zone-chip" data-zone="songshan" data-lat="25.0437" data-lng="121.5608" data-zoom="16">🏭 松山文創</button>
+      <button class="zone-chip" data-zone="expopark" data-lat="25.0706" data-lng="121.5218" data-zoom="16">🎪 花博公園</button>
+      <button class="zone-chip" data-zone="xinyi" data-lat="25.0366" data-lng="121.5672" data-zoom="16">🛍️ 信義商圈</button>
+      <button class="zone-chip" data-zone="nanxi" data-lat="25.0524" data-lng="121.5221" data-zoom="16">☕ 中山南西</button>
+      <button class="zone-chip" data-zone="ximen" data-lat="25.0435" data-lng="121.5072" data-zoom="16">🛹 西門商圈</button>
+      <button class="zone-chip" data-zone="banqiao" data-lat="25.0136" data-lng="121.4652" data-zoom="16">🎄 板橋市民廣場</button>
+    </div>
+
+    <!-- Map Canvas -->
+    <div id="map" role="region" aria-label="台北假日快閃互動地圖"></div>
+
+    <!-- Floating Category Filter Bar -->
+    <nav class="category-filter-bar" id="category-filter-bar" aria-label="分類篩選">
+      <button class="cat-btn active" data-cat="all" id="cat-btn-all">
+        <span class="cat-indicator"></span>
+        <span>全部 (<span id="cat-count-all">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="family" id="cat-btn-family">
+        <span class="cat-indicator" style="background:#fb923c;"></span>
+        <span>👨‍👩‍👧 親子 (<span id="cat-count-family">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="market" id="cat-btn-market">
+        <span class="cat-indicator" style="background:#f59e0b;"></span>
+        <span>🎪 市集 (<span id="cat-count-market">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="outdoor" id="cat-btn-outdoor">
+        <span class="cat-indicator" style="background:#22c55e;"></span>
+        <span>🌳 戶外 (<span id="cat-count-outdoor">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="festival" id="cat-btn-festival">
+        <span class="cat-indicator" style="background:#f43f5e;"></span>
+        <span>🏮 節慶 (<span id="cat-count-festival">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="party" id="cat-btn-party">
+        <span class="cat-indicator" style="background:#ec4899;"></span>
+        <span>🎉 派對 (<span id="cat-count-party">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="popup" id="cat-btn-popup">
+        <span class="cat-indicator" style="background:#3b82f6;"></span>
+        <span>⚡ 快閃 (<span id="cat-count-popup">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="anime" id="cat-btn-anime">
+        <span class="cat-indicator" style="background:#a855f7;"></span>
+        <span>✨ 動漫 (<span id="cat-count-anime">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="art" id="cat-btn-art">
+        <span class="cat-indicator" style="background:#14b8a6;"></span>
+        <span>🎨 藝文 (<span id="cat-count-art">0</span>)</span>
+      </button>
+      <button class="cat-btn" data-cat="event" id="cat-btn-event">
+        <span class="cat-indicator" style="background:#10b981;"></span>
+        <span>🎭 展演 (<span id="cat-count-event">0</span>)</span>
+      </button>
+    </nav>
+
+    <!-- Slide-over Event List Drawer -->
+    <aside class="sidebar-drawer" id="sidebar-drawer" aria-label="活動列表抽屜">
+      <div class="drawer-header">
+        <div class="drawer-title-group">
+          <h2>
+            <span>✨</span>
+            <span id="drawer-view-title">本週末精選假日活動</span>
+          </h2>
+          <div class="drawer-subtitle" id="drawer-subtitle">
+            共找到 <strong id="drawer-event-count">0</strong> 場假日活動
+          </div>
+        </div>
+        <button class="drawer-close-btn" id="btn-close-drawer" aria-label="關閉抽屜">✕</button>
+      </div>
+
+      <!-- Scrollable Event Cards List -->
+      <div class="events-list-container" id="events-list-container">
+        <!-- Rendered dynamically via app.js -->
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Leaflet MarkerCluster JS -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <!-- Application Logic -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

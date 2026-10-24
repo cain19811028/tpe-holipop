@@ -1,0 +1,36 @@
+﻿# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & Runtime
+*.log
+npm-debug.log*
+yarn-debug.log*
+node_modules/
+.env
+.env.local
+
+# AI Agent Local Guidelines (Keep internal prompt & design logic private)
+AGENTS.md
+CLAUDE.md
+GEMINI.md
