@@ -113,10 +113,23 @@ class HoliPopApp {
      ========================================================================== */
   async loadData() {
     try {
-      const resp = await fetch("data/events.geojson");
+      const resp = await fetch(`data/events.geojson?t=${Date.now()}`, { cache: "no-cache" });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
       this.events = data.features || [];
+
+      // 依照 period.start 降冪排序（最新活動排最前，長駐舊活動往後擺；若 start 相同則依 end 降冪）
+      this.events.sort((a, b) => {
+        const startA = a.properties?.period?.start || "";
+        const startB = b.properties?.period?.start || "";
+        if (startB !== startA) {
+          return startB.localeCompare(startA);
+        }
+        const endA = a.properties?.period?.end || "";
+        const endB = b.properties?.period?.end || "";
+        return endB.localeCompare(endA);
+      });
+
       console.log(`Loaded ${this.events.length} holiday events.`);
 
       // Update data freshness indicator
