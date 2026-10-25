@@ -161,7 +161,7 @@ class HoliPopApp {
       if (this.state.timeScope === "weekend") {
         if (!tags.includes("本週末")) return false;
       } else if (this.state.timeScope === "holiday") {
-        const hasLongHoliday = tags.some((t) => t.includes("連假"));
+        const hasLongHoliday = tags.some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)));
         if (!hasLongHoliday) return false;
       }
 
@@ -204,7 +204,7 @@ class HoliPopApp {
     // Weekend count
     const weekendCount = this.events.filter((e) => (e.properties.tags || []).includes("本週末")).length;
     // Holiday count
-    const holidayCount = this.events.filter((e) => (e.properties.tags || []).some((t) => t.includes("連假"))).length;
+    const holidayCount = this.events.filter((e) => (e.properties.tags || []).some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)))).length;
     // Total count
     const totalCount = this.events.length;
 
@@ -219,7 +219,7 @@ class HoliPopApp {
     const currentScopeEvents = this.events.filter((item) => {
       const tags = item.properties.tags || [];
       if (this.state.timeScope === "weekend") return tags.includes("本週末");
-      if (this.state.timeScope === "holiday") return tags.some((t) => t.includes("連假"));
+      if (this.state.timeScope === "holiday") return tags.some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)));
       return true;
     });
 
@@ -326,7 +326,7 @@ class HoliPopApp {
     if (this.state.timeScope === "weekend") {
       titleEl.textContent = "本週末精選假日活動";
     } else if (this.state.timeScope === "holiday") {
-      titleEl.textContent = "近期連假精選展演";
+      titleEl.textContent = "近期連假精選活動";
     } else {
       titleEl.textContent = "雙北全部假日活動";
     }
