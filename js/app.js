@@ -12,11 +12,11 @@ const CATEGORIES = {
   party:    { label: "🎉 派對", color: "#ec4899", key: "派對" },
   popup:    { label: "⚡ 快閃", color: "#3b82f6", key: "popup" },
   anime:    { label: "✨ 動漫", color: "#a855f7", key: "anime" },
-  art:      { label: "🎨 藝文", color: "#14b8a6", key: "art" },
-  event:    { label: "🎭 展演", color: "#10b981", key: "event" },
+  food:     { label: "🍔 美食", color: "#f97316", key: "food" },
 };
 
 function getCategoryInfo(cat) {
+  if (cat === "food" || cat === "美食") return CATEGORIES.food;
   if (CATEGORIES[cat]) return CATEGORIES[cat];
   for (const [k, v] of Object.entries(CATEGORIES)) {
     if (v.key === cat || v.label.includes(cat)) return v;
@@ -173,7 +173,7 @@ class HoliPopApp {
 
         const eventCats = p.categories && p.categories.length > 0 ? p.categories : [p.category];
         const matched = eventCats.some((c) => {
-          return c === target || c === targetKey || (target === "festival" && c === "event");
+          return c === target || c === targetKey || (target === "food" && (c === "food" || c === "美食"));
         });
         if (!matched) return false;
       }

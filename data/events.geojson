@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-25T01:57:39.268670+08:00",
-    "total_features": 224,
-    "this_weekend_count": 114
+    "generated_at": "2026-10-25T23:53:10.301598+08:00",
+    "total_features": 181,
+    "this_weekend_count": 90
   },
   "features": [
     {
@@ -33,60 +33,6 @@
         "source_url": "https://wekengo.tw/event/2wINY5/2026-xin-bei-shi-ye-dan-ma-la-song-jie-li-sai-ye-dan-kuai-zh",
         "tags": [],
         "image_url": "https://newtaipei.travel/content/images/articles/72447/articles-image-ahevou5rluslcjqcfntzrg.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "1714907f1e49",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "静岡手創り市 in 台北 第1回",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "松山文創園區 北向製菸工廠",
-        "period": {
-          "start": "2026-12-05",
-          "end": "2026-12-06"
-        },
-        "business_hours": "11:00-17:00（現場購票 250 元）",
-        "summary": "日本靜岡代表性工藝市集「手創り市」首度來台。陶藝、木工、玻璃、金工、皮革、染織與插畫等台日創作者齊聚一堂。",
-        "source_url": "https://www.walkerland.com.tw/subject/view/425189",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "89f97815874a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5291829,
-          25.0446089
-        ]
-      },
-      "properties": {
-        "title": "紙博 in 台北 vol.2",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "華山1914文創產業園區 紅磚區西一館",
-        "period": {
-          "start": "2026-12-05",
-          "end": "2026-12-06"
-        },
-        "business_hours": "10:00-18:00（預售票 280 元／現場票 350 元）",
-        "summary": "日本最盛大的紙製品盛典「紙博」台北第二彈。40 組以上台日韓創作者帶來紙膠帶、印章、貼紙、筆記本、包裝紙等文具紙雜貨。",
-        "source_url": "https://www.walkerland.com.tw/subject/view/425189",
-        "tags": []
       }
     },
     {
@@ -234,33 +180,6 @@
     },
     {
       "type": "Feature",
-      "id": "a5082c0b3b72",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.4652131,
-          25.0135904
-        ]
-      },
-      "properties": {
-        "title": "德國聖誕市集（新北場）",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "新北市市民廣場（板橋站3A出口）",
-        "period": {
-          "start": "2026-12-04",
-          "end": "2026-12-06"
-        },
-        "business_hours": "12/4–5 11:00–22:00、12/6 11:00–21:00",
-        "summary": "德國經濟辦事處主辦的傳統德國聖誕市集：德國香腸、熱紅酒與歐洲商品。台北場12/11–13（圓山花博）、桃園場12/18–20。",
-        "source_url": "https://taiwan.ahk.de/tw/event-2026/2026-german-christmas-market-new-taipei-taipei-taoyuan",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
       "id": "ba65254ed68e",
       "geometry": {
         "type": "Point",
@@ -286,6 +205,34 @@
         "source_url": "https://wekengo.tw/event/qN131J/2026-tai-bei-ye-dan-ai-wu-xian",
         "tags": [],
         "image_url": "https://www.travel.taipei/content/images/articles/573334/1024x768_articles-image-vu11knhwneeldygh3s5hpw.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc3afe76cf8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507288,
+          25.04214
+        ]
+      },
+      "properties": {
+        "title": "【11/29】Fun星球即興兒童故事劇",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "西門紅樓",
+        "period": {
+          "start": "2026-11-29",
+          "end": "2026-11-29"
+        },
+        "business_hours": "",
+        "summary": "台北 · 西門紅樓 (35天後)",
+        "source_url": "https://wekengo.tw/event/KgxT5Q/2026-tai-bei-xi-ju-jie-1129fun-xing-qiu-ji-xing-er-tong-gu-s",
+        "tags": [],
+        "image_url": "https://assets.kktix.io/upload_images/592513/626af981ae4bbd05_medium.jpg"
       }
     },
     {
@@ -359,8 +306,7 @@
         "title": "2026台北喜劇節：喜劇公車",
         "category": "戶外",
         "categories": [
-          "戶外",
-          "節慶"
+          "戶外"
         ],
         "venue_name": "喜劇公車（Comedy Plus 卡米地＋）",
         "period": {
@@ -401,60 +347,6 @@
         "source_url": "https://wekengo.tw/event/4BtOlu/meng-xia-qing-shan-gong-an-fang-ji-rao-jing",
         "tags": [],
         "image_url": "https://www.travel.taipei/content/images/articles/573332/1024x768_articles-image-3kqihcpvc0w04t1n7ta2bg.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "46b8f0d04519",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.6050301,
-          25.0525277
-        ]
-      },
-      "properties": {
-        "title": "小日子收藏所",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "CITYLINK 南港店 AB棟1樓廣場（南港區忠孝東路七段369號）",
-        "period": {
-          "start": "2026-11-28",
-          "end": "2026-11-29"
-        },
-        "business_hours": "11:00-20:00",
-        "summary": "CITYLINK南港店AB棟1樓廣場的市集。入場費未公告，請見主辦公告。",
-        "source_url": "https://jstmarket.tw/markets/小日子收藏所-2026-11-28-2f62aa21",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5bdb3c9e70d3",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "舒喜市集：台灣故鄉祭",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "松山文創園區 北向製菓工廠（臺北市信義區光復南路133號）",
-        "period": {
-          "start": "2026-11-28",
-          "end": "2026-11-29"
-        },
-        "business_hours": "11/28 13:00-19:00、11/29 11:00-19:00",
-        "summary": "以台灣土地與傳統為主題的選物市集，集結老物、手作與在地品牌。",
-        "source_url": "https://jstmarket.tw/markets/%E8%88%92%E5%96%9C%E5%B8%82%E9%9B%86-%E5%8F%B0%E7%81%A3%E6%95%85%E9%84%89%E7%A5%AD-2026-11-28-a309a9e8",
-        "tags": []
       }
     },
     {
@@ -515,6 +407,61 @@
     },
     {
       "type": "Feature",
+      "id": "9d5ede979f7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5291829,
+          25.0446089
+        ]
+      },
+      "properties": {
+        "title": "2026冬手禮日和（華山1914 東2AB館）",
+        "category": "food",
+        "categories": [
+          "food"
+        ],
+        "venue_name": "華山1914文化創意產業園區 東2AB館",
+        "period": {
+          "start": "2026-11-28",
+          "end": "2026-11-28"
+        },
+        "business_hours": "11:00-20:00",
+        "summary": "冬日伴手禮主題市集，集結手作甜點、烘焙與禮盒品牌。單日限定場次。",
+        "source_url": "https://jstmarket.tw/markets/2026%E5%86%AC%E6%89%8B%E7%A6%AE%E6%97%A5%E5%92%8C-2026-11-28-ee799664",
+        "tags": []
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f665bd16d9db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507288,
+          25.04214
+        ]
+      },
+      "properties": {
+        "title": "【11/28】Fun星球即興兒童故事劇",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "西門紅樓",
+        "period": {
+          "start": "2026-11-28",
+          "end": "2026-11-28"
+        },
+        "business_hours": "",
+        "summary": "台北 · 西門紅樓 (34天後)",
+        "source_url": "https://wekengo.tw/event/g3uDHJ/2026-tai-bei-xi-ju-jie-1128fun-xing-qiu-ji-xing-er-tong-gu-s",
+        "tags": [],
+        "image_url": "https://assets.kktix.io/upload_images/592512/dc0bdbafba9c84dd_medium.jpg"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "2d1422860031",
       "geometry": {
         "type": "Point",
@@ -539,33 +486,6 @@
         "source_url": "https://wekengo.tw/event/NjrRzX/openmuji-zhi-wu-xing-ran-bu-zhi-gou-wu-dai-wu-yin-liang-pin",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592557/e560ecf1c8745110_medium.jpeg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "b62a9a7cf2ba",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5313987,
-          25.0963311
-        ]
-      },
-      "properties": {
-        "title": "士林官邸菊展",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "士林官邸",
-        "period": {
-          "start": "2026-11-27",
-          "end": "2026-12-13"
-        },
-        "business_hours": "",
-        "summary": "年度菊展・花藝造景。",
-        "source_url": "https://www.travel.taipei/zh-tw/event-calendar/details/66398",
-        "tags": []
       }
     },
     {
@@ -709,33 +629,6 @@
         "source_url": "https://wekengo.tw/event/6nxdgx/huo-fu-man-de-wan-ju-xiang-2026-dong-ri-chang",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/575363/KKTIX_Banner_medium.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "ce6adeb16286",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5501221,
-          25.0506985
-        ]
-      },
-      "properties": {
-        "title": "BABYMONSTER WORLD TOUR [춤(CHOOM)] 台北站",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "台北小巨蛋",
-        "period": {
-          "start": "2026-11-21",
-          "end": "2026-11-22"
-        },
-        "business_hours": "11/21 19:30開演・11/22 18:00開演",
-        "summary": "K-pop女團・台灣首站・遠大售票/klook售票。",
-        "source_url": "https://babymonster.tw/concert-info",
-        "tags": []
       }
     },
     {
@@ -908,33 +801,6 @@
     },
     {
       "type": "Feature",
-      "id": "cb025b9cc3df",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "台北新藝術博覽會《居然 · 藝境》",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "松山文創園區",
-        "period": {
-          "start": "2026-11-20",
-          "end": "2026-11-22"
-        },
-        "business_hours": "",
-        "summary": "第16屆台北新藝術博覽會，主題「嚴選台灣主場」，紅磚倉庫展區。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/98ffd4b1-9b28-4398-a964-dadde97d2b8a",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
       "id": "57115ad29437",
       "geometry": {
         "type": "Point",
@@ -1016,33 +882,6 @@
         "source_url": "https://wekengo.tw/event/eM8Z6l/youmeat",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/591625/413bdfed64d8ee12_medium.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "aa63597a5e05",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.499601,
-          25.0579113
-        ]
-      },
-      "properties": {
-        "title": "村日子｜新年之前",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "空軍三重一村14號眷舍（三重區正義南路86巷9號）",
-        "period": {
-          "start": "2026-11-14",
-          "end": "2026-11-15"
-        },
-        "business_hours": "13:00-18:00",
-        "summary": "空軍三重一村14號眷舍內的市集。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/村日子-新年之前-2026-11-14-a5f79b42",
-        "tags": []
       }
     },
     {
@@ -1188,33 +1027,6 @@
     },
     {
       "type": "Feature",
-      "id": "cfeb25a61927",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5493918,
-          25.0426002
-        ]
-      },
-      "properties": {
-        "title": "First Light: MAAP x ENVE 台北首發派對",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "MAAP LaB Taipei（大安區敦化南路一段187巷2號）",
-        "period": {
-          "start": "2026-11-14",
-          "end": "2026-11-14"
-        },
-        "business_hours": "17:00-19:00",
-        "summary": "澳洲單車服飾 MAAP 與碳纖維輪組 ENVE 在台北直營店的聯合之夜：認識 ENVE 的設計理念、發表 ENVE Melee，並串連台北單車社群，備有音樂與飲品。免費參加。",
-        "source_url": "https://www.eventbrite.com/e/first-light-maap-x-enve-tickets-2003754918902",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
       "id": "e90616d9cfc5",
       "geometry": {
         "type": "Point",
@@ -1225,9 +1037,8 @@
       },
       "properties": {
         "title": "2026新北歡樂耶誕城",
-        "category": "event",
+        "category": "戶外",
         "categories": [
-          "event",
           "戶外",
           "節慶"
         ],
@@ -1241,33 +1052,6 @@
         "source_url": "https://www.tad.gov.tw/m1.aspx?sNo=0001019&lid=081713",
         "tags": [],
         "image_url": "https://www.taiwan.net.tw/pic.ashx?qp=event/e1b0734b-7b19-4bb6-a03f-bb07c767e48e.jpg&sizetype=2"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5aa261b01b12",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5602911,
-          25.0399868
-        ]
-      },
-      "properties": {
-        "title": "島國禮作 第六回 岸北",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "國父紀念館 戶外廣場",
-        "period": {
-          "start": "2026-11-13",
-          "end": "2026-11-15"
-        },
-        "business_hours": "13:00-19:00（免費入場）",
-        "summary": "集結日本、韓國、台灣等超過 600 組品牌的工藝市集第六回。免費入場。",
-        "source_url": "https://www.walkerland.com.tw/subject/view/425189",
-        "tags": []
       }
     },
     {
@@ -1311,9 +1095,8 @@
       },
       "properties": {
         "title": "2026 POPUPASIA® 亞洲手創暨生活展 @ 松山文創園區",
-        "category": "event",
+        "category": "市集",
         "categories": [
-          "event",
           "市集"
         ],
         "venue_name": "松山文創園區 4、5號倉庫",
@@ -1523,60 +1306,6 @@
         "source_url": "https://wekengo.tw/event/uFEu2Y/xi-zhi-da-tong-fen-guan-yuan-xi-xin-sheng-huo-tai-yu-zou-du",
         "tags": [],
         "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5Fz8ZSgMdIf6DU%2BbnpZRywoYXOGcnkvDuhkZvxbC99sSjk%3D"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "e63e44f5f863",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.6237645,
-          25.0756186
-        ]
-      },
-      "properties": {
-        "title": "摭市集 x 寵物文創流行市集（內湖大全聯）",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "內湖大全聯 1F 廣場（內湖區舊宗路一段188號）",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-08"
-        },
-        "business_hours": "10:30-18:00",
-        "summary": "結合寵物生活、文創設計與流行選物的市集：寵物用品、特色零食、客製商品、插畫創作、手作設計與潮流品牌。攤位報到09:30。",
-        "source_url": "https://eventgo.tw/event/b4741643-0168-4e23-b008-5c64c43df972",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d346ccfd8e6f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5358242,
-          25.0296931
-        ]
-      },
-      "properties": {
-        "title": "慢暮。安森町市",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "大安森林公園捷運站 陽光大廳（大安區）",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-08"
-        },
-        "business_hours": "11:00-18:00",
-        "summary": "大安森林公園捷運站陽光大廳的市集。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/慢暮-安森町市-2026-11-07-a6b3338f",
-        "tags": []
       }
     },
     {
@@ -1807,33 +1536,6 @@
     },
     {
       "type": "Feature",
-      "id": "ba3c2187ce89",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "海潮如息：水、土地與我們（松山文創園區）",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "松山文創園區 文創大街",
-        "period": {
-          "start": "2026-11-06",
-          "end": "2027-01-03"
-        },
-        "business_hours": "",
-        "summary": "松山文創園區文創大街戶外展，以水、土地與人的關係為題；內容細節待官方公布。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/e19135a9-5ffb-4124-82cb-cca54ee99a11",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
       "id": "19c442722752",
       "geometry": {
         "type": "Point",
@@ -1844,9 +1546,8 @@
       },
       "properties": {
         "title": "玩轉文具暨手作創意展",
-        "category": "event",
+        "category": "市集",
         "categories": [
-          "event",
           "市集"
         ],
         "venue_name": "台北世貿一館（台北市信義區）",
@@ -1863,33 +1564,6 @@
     },
     {
       "type": "Feature",
-      "id": "0c7c0671fd5e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.6185,
-          25.05465
-        ]
-      },
-      "properties": {
-        "title": "888好康市集・南港展覽館",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "捷運南港展覽館站 2號出口廣場（南港區經貿二路2號）",
-        "period": {
-          "start": "2026-11-06",
-          "end": "2026-11-09"
-        },
-        "business_hours": "09:00-20:00",
-        "summary": "南港展覽館捷運站2號出口廣場舉辦的市集。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/888好康市集-南港展覽館-2026-11-06-a368daf0",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
       "id": "0245bfabfc71",
       "geometry": {
         "type": "Point",
@@ -1900,9 +1574,8 @@
       },
       "properties": {
         "title": "STAR ON THE MOVE 2026 臺北採購媒合與展售會",
-        "category": "event",
+        "category": "市集",
         "categories": [
-          "event",
           "市集"
         ],
         "venue_name": "松山文創園區（信義區光復南路133號）",
@@ -1919,55 +1592,28 @@
     },
     {
       "type": "Feature",
-      "id": "5c127b17c665",
+      "id": "ef9aca327be9",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5208753,
-          25.0685553
+          121.5448661,
+          25.0421334
         ]
       },
       "properties": {
-        "title": "168幸福市集・圓山花博公園入口廣場",
-        "category": "event",
+        "title": "GARMIN fēnix 8 POP-UP 快閃 @ SOGO 忠孝館",
+        "category": "popup",
         "categories": [
-          "event"
+          "popup"
         ],
-        "venue_name": "圓山花博公園 入口廣場（中山區民族西路）",
+        "venue_name": "遠東SOGO 台北忠孝館 Garmin 專櫃",
         "period": {
-          "start": "2026-11-06",
-          "end": "2026-11-08"
+          "start": "2026-11-05",
+          "end": "2026-11-09"
         },
-        "business_hours": "10:00-19:00",
-        "summary": "168幸福市集於圓山花博公園入口廣場的場次。同期另有11/5-8 欣欣百貨廊道場與11/6-8 中和四號公園場。",
-        "source_url": "https://www.168market.tw/",
-        "tags": []
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "2feb4ed47604",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.50783,
-          25.05662
-        ]
-      },
-      "properties": {
-        "title": "眾樂樂文創親子市集（大稻埕碼頭）",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "大稻埕碼頭廣場（大同區）",
-        "period": {
-          "start": "2026-11-06",
-          "end": "2026-11-08"
-        },
-        "business_hours": "",
-        "summary": "美食餐飲、文創手作、生活選品與親子商品的多元攤位。11/6(五)-11/8(日)。",
-        "source_url": "https://eventgo.tw/event/dece263d-6104-49b1-9f8c-5d927d16c2d6",
+        "business_hours": "詳情未公布",
+        "summary": "GARMIN fēnix 8 × 戰神MARS「有備，無限」全台 15 站巡迴快閃的一站，於 SOGO 台北忠孝館 Garmin 專櫃登場，售出 Venu X1、fēnix 8 系列等精選錶款。同一巡迴另有 SOGO 台北天母店（12/2–12/6）、新光三越 A8（10/15–10/19）、新莊宏匯（10/22–10/26）等站。",
+        "source_url": "https://www.garmin.com.tw/news/garmin/news-2026-sep-department-store-anniversary/",
         "tags": []
       }
     },
@@ -2164,9 +1810,8 @@
       },
       "properties": {
         "title": "ELLE Weekend（松山文創園區）",
-        "category": "event",
+        "category": "市集",
         "categories": [
-          "event",
           "市集"
         ],
         "venue_name": "松山文創園區 巴洛克花園＆南向製菸工廠",
@@ -2207,93 +1852,6 @@
         "business_hours": "10:00-17:00",
         "summary": "集結全台人氣麵包店的麵包祭，在國父紀念館中山文化園區登場。",
         "source_url": "https://www.walkerland.com.tw/subject/view/425189",
-        "tags": [
-          "下週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "1c85f2ba767c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "萬色趴",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "松山文創園區 椰林大道（信義區光復南路133號）",
-        "period": {
-          "start": "2026-10-31",
-          "end": "2026-11-01"
-        },
-        "business_hours": "12:00-18:30",
-        "summary": "松山文創園區椰林大道舉行的文創市集。入場費未公告，請見主辦公告。",
-        "source_url": "https://jstmarket.tw/markets/萬色趴-2026-10-31-2597a7df",
-        "tags": [
-          "下週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "92c57150d0c5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5789749,
-          25.0491374
-        ]
-      },
-      "properties": {
-        "title": "萬聖搗蛋市",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "CITYLINK 松山壹號店（西側1F圓頂廣場）",
-        "period": {
-          "start": "2026-10-31",
-          "end": "2026-11-01"
-        },
-        "business_hours": "11:00-20:00",
-        "summary": "CITYLINK松山壹號店西側1F圓頂廣場的萬聖節市集。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/萬聖搗蛋市-2026-10-31-86ca553d",
-        "tags": [
-          "下週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "45c107fae0ea",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.6050301,
-          25.0525277
-        ]
-      },
-      "properties": {
-        "title": "魔法搞怪學院・親子市集",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "CITYLINK 南港店 AB棟1樓廣場（南港區忠孝東路七段369號）",
-        "period": {
-          "start": "2026-10-31",
-          "end": "2026-11-01"
-        },
-        "business_hours": "11:00-20:00",
-        "summary": "CITYLINK南港店AB棟1樓廣場的親子市集。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/魔法搞怪學院-親子市集-2026-10-31-5d2cdb88",
         "tags": [
           "下週末"
         ]
@@ -2758,64 +2316,6 @@
     },
     {
       "type": "Feature",
-      "id": "17582f89a9a5",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5208753,
-          25.0685553
-        ]
-      },
-      "properties": {
-        "title": "Pinkoi Design Fest 瘋設祭 2026",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "圓山花博爭艷館",
-        "period": {
-          "start": "2026-10-30",
-          "end": "2026-11-01"
-        },
-        "business_hours": "10/30 10:00-18:00、10/31 10:00-20:00、11/1 10:00-18:00（Pinkoi 會員免費入場）",
-        "summary": "亞洲設計購物平台 Pinkoi 的年度設計祭典，集結超過 530 個海內外品牌，涵蓋美食、服飾、生活選物與手作。Pinkoi 會員免費入場。",
-        "source_url": "https://www.walkerland.com.tw/subject/view/425189",
-        "tags": [
-          "下週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "7faf723e0ac1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5309956,
-          24.9721568
-        ]
-      },
-      "properties": {
-        "title": "Chill市集（新店美河購物廣場）",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "新店美河購物廣場 IKEA新店店外場域4樓（捷運小碧潭站旁）",
-        "period": {
-          "start": "2026-10-30",
-          "end": "2026-11-01"
-        },
-        "business_hours": "11:00-19:30",
-        "summary": "文創手作、設計商品、原創插畫、藝術作品、異國風味手作美食、療癒系植栽、生活選品與二手選物的市集。捷運小碧潭站旁。",
-        "source_url": "https://eventgo.tw/event/a711fc96-7528-4516-99d3-226efd062d84",
-        "tags": [
-          "下週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "0bbeba0a042f",
       "geometry": {
         "type": "Point",
@@ -3060,7 +2560,7 @@
     },
     {
       "type": "Feature",
-      "id": "f5bc1b731ccc",
+      "id": "1abe65530bb6",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3069,20 +2569,19 @@
         ]
       },
       "properties": {
-        "title": "2026華文朗讀節【風土電影院】《熱帶魚》特別放映",
-        "category": "art",
+        "title": "T-SPARK 2026 ZONE TAIPEI 勇者王×ZOIDS 模型展快閃店",
+        "category": "popup",
         "categories": [
-          "art",
           "popup"
         ],
-        "venue_name": "華山文創園區 光點華山電影館 2廳A Two",
+        "venue_name": "華山1914文創園區 中7B館 維修工場",
         "period": {
           "start": "2026-10-29",
           "end": "2026-11-04"
         },
-        "business_hours": "19:00–21:00",
+        "business_hours": "10:00–18:00",
         "summary": "Takara Tomy T-SPARK 25 週年模型展快閃店，主題「T-SPARK YOUR WORLD」。設模型組裝＆試玩區（每日限量 20 組）、勇者王原畫展、全新 ZOIDS CG 影片，以及巨大長牙獅立像打卡區。",
-        "source_url": "https://www.huashan1914.com/exhibition/%E9%A2%A8%E5%9C%9F%E9%9B%BB%E5%BD%B1%E9%99%A2",
+        "source_url": "https://www.huashan1914.com/exhibition/T-SPARK%202026%20ZONE%20TAIPEI",
         "tags": [
           "下週末"
         ]
@@ -3100,9 +2599,8 @@
       },
       "properties": {
         "title": "旅行再發現－100亮點大會師（松山文創園區）",
-        "category": "event",
+        "category": "市集",
         "categories": [
-          "event",
           "市集"
         ],
         "venue_name": "松山文創園區 2號倉庫",
@@ -3117,35 +2615,6 @@
           "下週末"
         ],
         "image_url": "https://www.songshanculturalpark.org/gallery/1791875758_bf5b47365264a4ea70c4.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "a4a622631ec0",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.4437254,
-          25.0564098
-        ]
-      },
-      "properties": {
-        "title": "集光市・午間生活市集",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "行政院新莊聯合辦公大樓 B1（中平路439號）",
-        "period": {
-          "start": "2026-10-27",
-          "end": "2026-11-20"
-        },
-        "business_hours": "10:00-15:00",
-        "summary": "新莊聯合辦公大樓B1的午間生活市集，平日辦公人潮的選物好去處。入場費未公告。",
-        "source_url": "https://jstmarket.tw/markets/集光市-午間生活市集-2026-10-27-11c063c0",
-        "tags": [
-          "下週末"
-        ]
       }
     },
     {
@@ -3210,6 +2679,38 @@
     },
     {
       "type": "Feature",
+      "id": "5ee4b307bea9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514722,
+          25.096944
+        ]
+      },
+      "properties": {
+        "title": "10/25、26兒童新樂園萬聖嘉年華",
+        "category": "親子",
+        "categories": [
+          "市集",
+          "節慶",
+          "親子"
+        ],
+        "venue_name": "臺北市兒童新樂園",
+        "period": {
+          "start": "2026-10-25",
+          "end": "2026-10-26"
+        },
+        "business_hours": "",
+        "summary": "台北 · 臺北市兒童新樂園 (今天)",
+        "source_url": "https://wekengo.tw/event/5HFnQZ/102526-bian-zhuang-mian-fei-ru-yuan-er-tong-xin-le-yuan-di-s",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9718604/11956a6d-e18a-47a7-a942-c8be252fe78f@710x470.jpg"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "9b27644b151a",
       "geometry": {
         "type": "Point",
@@ -3240,274 +2741,6 @@
     },
     {
       "type": "Feature",
-      "id": "fb114de01693",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5291829,
-          25.0446089
-        ]
-      },
-      "properties": {
-        "title": "2026華文朗讀節【聲音劇場】土地之歌——有聲有色的錄音史",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "華山1914文化創意產業園區 中3A館 2樓拱廳",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "14:30–17:00",
-        "summary": "以黑膠收藏為線索的聲音劇場：從唱片、廣播到錄音技術，講者林太崴（黑膠收藏家）與林珮如（聲色Sounds）對談台灣的錄音史。",
-        "source_url": "https://www.huashan1914.com/exhibition/%E8%81%B2%E9%9F%B3%E5%8A%87%E5%A0%B4-%E5%9C%9F%E5%9C%B0%E4%B9%8B%E6%AD%8C%E2%80%94%E2%80%94%E6%9C%89%E8%81%B2%E6%9C%89%E8%89%B2%E7%9A%84%E9%8C%84%E9%9F%B3%E5%8F%B2",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "0987f1808855",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5291829,
-          25.0446089
-        ]
-      },
-      "properties": {
-        "title": "2026華文朗讀節【朗讀沙龍】撖捱等介土地糴米——跟我們的土地買米",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "華山1914文化創意產業園區 中3A館 2樓拱廳",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "10:00–12:00",
-        "summary": "詩人鍾永豐與作家王昭華首度同台，以「米」為主題朗讀詩作與散文，談台灣小鎮的離農與返鄉。",
-        "source_url": "https://www.huashan1914.com/exhibition/%E3%80%90%E6%9C%97%E8%AE%80%E6%B2%99%E9%BE%8D%E3%80%91%E6%92%96%E6%8D%B1%E7%AD%89%E4%BB%8B%E5%9C%9F%E5%9C%B0%E7%B3%B4%E7%B1%B3--%E8%B7%9F%E6%88%91%E5%80%91%E7%9A%84%E5%9C%9F%E5%9C%B0%E8%B2%B7%E7%B1%B3",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "19938a6cc5a1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.529301,
-          25.043279
-        ]
-      },
-      "properties": {
-        "title": "【2026華山繪本之森】采實姊姊說故事《松鼠兄弟尋寶大作戰》",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "華山1914文化創意園區繪本之森華山店",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 華山1914文化創意園區繪本之森華山店 (今天)",
-        "source_url": "https://wekengo.tw/event/aoBntN/2026-hua-shan-hui-ben-zhi-sen-10-yue-cai-shi-zi-zi-shuo-gu-s",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609240135155999770590_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5e51eeb9d0c7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.528822,
-          25.033891
-        ]
-      },
-      "properties": {
-        "title": "10/25 IN東門·美食品旅",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "捷運東門站2號出口",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 捷運東門站2號出口 (今天)",
-        "source_url": "https://wekengo.tw/event/2G6bY5/in-dong-men-mei-shi-pin-lv-1025",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2604290041071850500047_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "e38f2d89ea9a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.511897,
-          25.054727
-        ]
-      },
-      "properties": {
-        "title": "【延期至10/25】重返1920年代讀報社",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "渭水驛站",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 渭水驛站 (今天)",
-        "source_url": "https://wekengo.tw/event/FsHOGX/mian-fei-jiang-zuo-dao-lan-chong-fan-1920-nian-dai-du-bao-sh",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610010338406194666930_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "463e79d1023f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.530354,
-          25.072374
-        ]
-      },
-      "properties": {
-        "title": "【城市故事行旅】圓山小旅行",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "林安泰古厝",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 林安泰古厝 (今天)",
-        "source_url": "https://wekengo.tw/event/zf8Fcw/cheng-shi-gu-shi-xing-lv-yuan-shan-xiao-lv-xing-zou-jin-tai",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609080121421871617105_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d9b15a1dd305",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.517615,
-          25.046859
-        ]
-      },
-      "properties": {
-        "title": "走向旅行的起點：仿傚1930年代的小旅行",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "臺北車站東三門外一樓戶外空間",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 臺北車站東三門外一樓戶外空間 (今天)",
-        "source_url": "https://wekengo.tw/event/CPpVSr/2026-xin-wen-hua-yun-dong-yue-wen-hua-zi-zao-ye-zou-xiang-lv",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609171051581366442463_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "04ed68bd1771",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.511897,
-          25.054727
-        ]
-      },
-      "properties": {
-        "title": "延期至10/25(日) 臺北市文協風華導覽",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "渭水驛站",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 渭水驛站 (今天)",
-        "source_url": "https://wekengo.tw/event/Ab0Rs1/mian-fei-dao-lan-1151024-liu-tai-bei-shi-wen-xie-feng-hua-da",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609190355341538512701_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5aa3f41f5d31",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.52237,
-          25.071726
-        ]
-      },
-      "properties": {
-        "title": "走讀活動－圓山小菲律賓 ChungShan 的一百種生活",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "花博公園圓山園區",
-        "period": {
-          "start": "2026-10-25",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 花博公園圓山園區 (今天)",
-        "source_url": "https://wekengo.tw/event/qJiV31/zou-du-huo-dong-yuan-shan-xiao-fei-lv-bin-chungshan-de-yi-ba",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609162318431187197906_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "a72b91060d93",
       "geometry": {
         "type": "Point",
@@ -3530,6 +2763,35 @@
         "business_hours": "",
         "summary": "防風少年5週年紀念展（台北場）。",
         "source_url": "https://jioujiou.tw/taipei-exhibition/",
+        "tags": [
+          "本週末"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5aa2df624c36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654833,
+          25.0405841
+        ]
+      },
+      "properties": {
+        "title": "Hearts2Hearts《Lemon Tang》2nd Mini Album POP-UP @ 統一時代",
+        "category": "popup",
+        "categories": [
+          "popup"
+        ],
+        "venue_name": "統一時代百貨 台北店 B2 特賣場",
+        "period": {
+          "start": "2026-10-24",
+          "end": "2026-11-08"
+        },
+        "business_hours": "週日～週四 11:00–21:30；週五、週六 11:00–22:00（每場 40 人、40 分鐘，需預約）",
+        "summary": "SM Entertainment 男團 Hearts2Hearts 第二張迷你專輯《Lemon Tang》台北期間限定快閃，現場規劃視覺形象、社群打卡、商品販售、結帳及互動體驗五大區域，結合拍照、遊戲、購物及限定贈品打造沉浸式快閃體驗。採「線上預約＋現場候補」雙軌入場，每場限 40 人、體驗時間 40 分鐘；現場禁止使用椅子及帳篷，禁止夜排。",
+        "source_url": "https://www.accupass.com/event/2609230322037570943000",
         "tags": [
           "本週末"
         ]
@@ -3628,36 +2890,7 @@
     },
     {
       "type": "Feature",
-      "id": "7529a0b6ed9d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "水水市集系列",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "松山文創園區 椰林大道（信義區光復南路133號）",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-26"
-        },
-        "business_hours": "14:00-19:00（主辦另列12:00起，以現場為準）",
-        "summary": "松山文創園區椰林大道的市集系列。開始時間主辦公告列14:00、表單另列12:00，以現場公告為準。",
-        "source_url": "https://jstmarket.tw/markets/水水市集系列-2026-10-24-2116f5d8",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5ee4b307bea9",
+      "id": "8c066a6ac274",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3666,7 +2899,7 @@
         ]
       },
       "properties": {
-        "title": "10/25、26兒童新樂園萬聖嘉年華",
+        "title": "兒童新樂園第十屆萬聖嘉年華",
         "category": "親子",
         "categories": [
           "市集",
@@ -3681,11 +2914,11 @@
         },
         "business_hours": "",
         "summary": "台北 · 臺北市兒童新樂園 (進行中・明天結束)",
-        "source_url": "https://wekengo.tw/event/5HFnQZ/102526-bian-zhuang-mian-fei-ru-yuan-er-tong-xin-le-yuan-di-s",
+        "source_url": "https://wekengo.tw/event/yipYr3/er-tong-xin-le-yuan-di-shi-jie-wan-sheng-jia-nian-hua-ji-jia",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://www-ws.gov.taipei/001/Upload/405/relpic/10162/9718604/11956a6d-e18a-47a7-a942-c8be252fe78f@710x470.jpg"
+        "image_url": "https://www-ws.gov.taipei/001/Upload/621/relpic/28248/9732422/b3e71c04-8f48-405a-8376-1ee7dbbe6f0f.jpg"
       }
     },
     {
@@ -3908,35 +3141,6 @@
     },
     {
       "type": "Feature",
-      "id": "548723732d5e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "台北市牙醫師公會 80週年公益嘉年華",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "松山文創園區（信義區光復南路133號）",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "創会80周年の公益衛教イベント。「快樂護齒 80年 守護健康展笑顏」と「反毒拒菸檳 健康從齒靚」街舞比赛、8020運動の推進。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c6fa613b-5ea6-4f2b-9c81-898d7f57fc53",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "e3861361f3b3",
       "geometry": {
         "type": "Point",
@@ -3962,187 +3166,6 @@
         "tags": [
           "本週末"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "876536659f49",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.559903,
-          25.043661
-        ]
-      },
-      "properties": {
-        "title": "快樂護齒80年公益嘉年華",
-        "category": "親子",
-        "categories": [
-          "市集",
-          "親子"
-        ],
-        "venue_name": "松山文創園區",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 松山文創園區 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/hpgjBv/she-tuan-fa-ren-tai-bei-shi-ya-yi-shi-gong-hui-80-zhou-nian",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://www.songshanculturalpark.org/gallery/1792378787_f8c3045a3b64e21627da.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "b447edf2325f",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.604642,
-          25.053533
-        ]
-      },
-      "properties": {
-        "title": "Maker Faire Taipei 2026 肥皂箱分享會",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "瓶蓋工廠台北製造所",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 瓶蓋工廠台北製造所 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/2Gb3Y5/makerfairetaipei2026-fei-zao-xiang-fen-xiang-hui",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610210142304510357030_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "1e8e5f8c2388",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.568896,
-          25.036152
-        ]
-      },
-      "properties": {
-        "title": "SWIPIN × Flare萬聖節派對",
-        "category": "派對",
-        "categories": [
-          "派對"
-        ],
-        "venue_name": "Flare Taipei",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · Flare Taipei (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/LRlBpH/swipinxflaretaipeihalloweenparty",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://assets.kktix.io/upload_images/592586/5e7f919ad48846aa_medium.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "059dd70c1795",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5197,
-          25.0728
-        ]
-      },
-      "properties": {
-        "title": "巴哈姆特30週年站聚",
-        "category": "市集",
-        "categories": [
-          "市集"
-        ],
-        "venue_name": "臺北花博公園",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/3J2sWp/ba-ha-mu-te-30-zhou-nian-zhan-ju",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4583/4f20a0ac-79ca-43ca-b0ff-fa058f92ccce.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "7d414d70b7df",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.428217,
-          25.18939
-        ]
-      },
-      "properties": {
-        "title": "穿越淡水時空旅行！老厝ｘ水圳古道",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "公司田溪程氏古厝",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "新北 · 公司田溪程氏古厝 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/x2ARoC/chuan-yue-dan-shui-shi-kong-lv-xing-lao-cuo-shui-zhen-gu-dao",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610141347101802856857_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d143b55f363a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.521124,
-          25.277973
-        ]
-      },
-      "properties": {
-        "title": "10/24（六）&10/25（日）Stefanie Leung駐村發表會",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "子隆山房",
-        "period": {
-          "start": "2026-10-24",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "新北 · 子隆山房 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/rDL1Cl/1024-liu-1025-ri-tesa-guo-ji-zhu-cun-yi-shu-jia-stefanieleun",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610130236581101975348_P520x260.jpg"
       }
     },
     {
@@ -4235,57 +3258,28 @@
     },
     {
       "type": "Feature",
-      "id": "92657a9e8af0",
+      "id": "c7db5b059f88",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5291829,
-          25.0446089
+          121.560797,
+          25.0437228
         ]
       },
       "properties": {
-        "title": "SIF in Taipei 首爾插畫展 台北站（華山1914）",
-        "category": "art",
+        "title": "2026 台灣國際珍稀茶葉博覽會（松山文創園區）",
+        "category": "food",
         "categories": [
-          "art"
+          "food"
         ],
-        "venue_name": "華山1914文創園區",
+        "venue_name": "松山文創園區 1號倉庫",
         "period": {
           "start": "2026-10-23",
           "end": "2026-10-26"
         },
-        "business_hours": "",
-        "summary": "韓國最大插畫展「首爾插畫展」首次登台，集結韓國人氣插畫家作品；光復連假限定。",
-        "source_url": "https://www.huashan1914.com/exhibition/event-SIFinTaipei%E9%A6%96%E7%88%BE%E6%8F%92%E7%95%AB%E5%B1%95%E5%8F%B0%E5%8C%97%E7%AB%99",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "88e5b8584453",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5208753,
-          25.0685553
-        ]
-      },
-      "properties": {
-        "title": "好事發生市集（圓山花博）",
-        "category": "event",
-        "categories": [
-          "event"
-        ],
-        "venue_name": "台北圓山花博入口廣場（中山區民族西路）",
-        "period": {
-          "start": "2026-10-23",
-          "end": "2026-10-26"
-        },
-        "business_hours": "10:00-18:30",
-        "summary": "台北圓山花博入口廣場舉行的市集。入場費未公告，請見主辦公告。",
-        "source_url": "https://jstmarket.tw/markets/好事發生市集-2026-10-23-ce824582",
+        "business_hours": "11:00-19:00",
+        "summary": "集結珍稀茶葉、茶器與茶藝的專業博覽會：茶葉品鑑、茶藝表演、茶具展示與專家講座。購票入場。",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/ca3efca9-30a4-44e7-b701-c57a33bce080",
         "tags": [
           "本週末"
         ]
@@ -4303,9 +3297,8 @@
       },
       "properties": {
         "title": "兆豐證券「蜜境探險｜豐收寶藏」品牌互動體驗展（華山1914）",
-        "category": "art",
+        "category": "親子",
         "categories": [
-          "art",
           "親子"
         ],
         "venue_name": "華山1914文創園區 中7B館",
@@ -4388,32 +3381,32 @@
     },
     {
       "type": "Feature",
-      "id": "cb33caaaf5f5",
+      "id": "aef4327c5ff0",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.557165,
-          25.083307
+          121.524776,
+          25.072367
         ]
       },
       "properties": {
-        "title": "2026春池玻璃工坊Spring Pool Glass Studio",
+        "title": "定時導覽｜I Spy Love，發現愛",
         "category": "親子",
         "categories": [
           "親子"
         ],
-        "venue_name": "無印良品美麗華門市",
+        "venue_name": "臺北市立美術館 兒童藝術教育中心",
         "period": {
-          "start": "2026-10-19",
-          "end": "2026-10-25"
+          "start": "2026-10-20",
+          "end": "2027-02-21"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/ufbX2Y/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio10191025",
+        "summary": "台北 · 臺北市立美術館 兒童藝術教育中心 (進行中・剩119天)",
+        "source_url": "https://wekengo.tw/event/9QeHFq/ding-shi-dao-lan-ispylove-fa-xian-ai",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://assets.kktix.io/upload_images/575482/%E7%8E%BB%E7%92%834_medium.jpg"
+        "image_url": "https://www.tfam.museum/File/Edu/Main/3959/2026092217043326510770.jpg"
       }
     },
     {
@@ -4478,65 +3471,6 @@
     },
     {
       "type": "Feature",
-      "id": "69f3df83ccbc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.557232,
-          25.082746
-        ]
-      },
-      "properties": {
-        "title": "NOKE城市馬戲劇場｜紳士×森林雙場",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "NOKE 忠泰樂生活",
-        "period": {
-          "start": "2026-10-18",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · NOKE 忠泰樂生活 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/p6Tzkl/noke-cheng-shi-ma-xi-ju-chang-shen-shi-sen-lin-shuang-chang",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609101013157560978500_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d418d621a22e",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "High Street Italia Taipei 巧有義思",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "松山文創園區 男澡堂（信義區光復南路133號）",
-        "period": {
-          "start": "2026-10-17",
-          "end": "2027-03-26"
-        },
-        "business_hours": "11:00–19:00（例假日 11:00–20:00；週一休館）",
-        "summary": "義大利貿易辦事處（ITA）首度在台灣設立的半常設 Made in Italy 展示空間，以策展方式呈現義大利時尚、美食、設計、美妝等多元品類，並定期舉辦品牌活動與 B2B 媒合；台北首展自2026年10月起至2027年3月。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/91589122-0101-4317-aa46-83fd9766ee1c",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "4627252072b9",
       "geometry": {
         "type": "Point",
@@ -4547,9 +3481,8 @@
       },
       "properties": {
         "title": "碧潭地景裝置展 遇見小王子漫遊碧潭間",
-        "category": "art",
+        "category": "市集",
         "categories": [
-          "art",
           "市集",
           "戶外",
           "節慶"
@@ -4566,6 +3499,36 @@
           "本週末"
         ],
         "image_url": "https://strolltimes.com/events/new-taipei/261016084730.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1be3d0f1ff6e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557232,
+          25.082746
+        ]
+      },
+      "properties": {
+        "title": "NOKE 城市馬戲電影院",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "NOKE 忠泰樂生活",
+        "period": {
+          "start": "2026-10-17",
+          "end": "2026-11-07"
+        },
+        "business_hours": "",
+        "summary": "台北 · NOKE 忠泰樂生活 (進行中・剩13天)",
+        "source_url": "https://wekengo.tw/event/CPh5Sr/noke-cheng-shi-ma-xi-dian-ying-yuan-meng-huan-qi-huan-shuang",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2609110736356158962900_P520x260.jpg"
       }
     },
     {
@@ -4599,28 +3562,28 @@
     },
     {
       "type": "Feature",
-      "id": "26364259a863",
+      "id": "b9a3d08bb630",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.560797,
-          25.0437228
+          121.5672413,
+          25.0365877
         ]
       },
       "properties": {
-        "title": "淨毒五郎：純淨重生｜日常綠光展（松山文創園區）",
-        "category": "art",
+        "title": "RISKY 韓國彩妝首間台灣快閃店 @ 新光三越 A11",
+        "category": "popup",
         "categories": [
-          "art"
+          "popup"
         ],
-        "venue_name": "松山文創園區",
+        "venue_name": "新光三越 台北信義新天地 A11 1樓",
         "period": {
-          "start": "2026-10-16",
-          "end": "2026-10-28"
+          "start": "2026-10-15",
+          "end": "2026-11-30"
         },
-        "business_hours": "",
-        "summary": "環保植萃清潔品牌「淨毒五郎」主題展：品牌故事、產品體驗、永續理念三大展區，看見藏在日常清潔裡的綠色微光。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/63d440f3-94ee-4a38-aeba-89116f3593dd",
+        "business_hours": "詳情未公布",
+        "summary": "韓國 Y2K 暗黑美學彩妝品牌 RISKY 首次進軍台灣，把全台首間快閃店開在台北信義新光三越 A11 一樓，全品項 9 折。首週（10/15–10/18）打卡免費送品牌手拿鏡，第二週加碼時髦手機鍊（10/22–10/26 每日限量 100 份），消費滿額可加購限定暗黑蝴蝶唇釉鑰匙扣。人氣品項包括大膽鏡面水光唇釉、鏡爆星河眼影盤（入選《Vogue Taiwan》2026 Olive Young 十大必買第 7 名）及微醺柔霧口袋腮紅棒。",
+        "source_url": "https://www.skm.com.tw/skmmedia/beauty/cosmetics/riskybeauty2026",
         "tags": [
           "本週末"
         ]
@@ -4628,62 +3591,31 @@
     },
     {
       "type": "Feature",
-      "id": "d429fab1ba46",
+      "id": "0a1e1d3ce920",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5291829,
-          25.0446089
+          121.5050279,
+          25.04374
         ]
       },
       "properties": {
-        "title": "北海道東川町 Furniture Fair 2026 in Taiwan（華山1914）",
-        "category": "event",
+        "title": "《藥師少女的獨語》主題聯名咖啡廳 FANFANS CAFÉ 西門店",
+        "category": "anime",
         "categories": [
-          "art",
-          "event"
+          "anime"
         ],
-        "venue_name": "華山1914文創園區 中7B館",
+        "venue_name": "FANFANS CAFÉ 西門店 — 台北市萬華區昆明街92之1號5樓",
         "period": {
-          "start": "2026-10-16",
-          "end": "2026-10-26"
+          "start": "2026-10-15",
+          "end": "2026-11-17"
         },
-        "business_hours": "10/17 10:00–19:00、10/18 10:00–17:00",
-        "summary": "全家便利商店與RE-THINK合辦的生活環境觀察展，去年逾3萬人參觀；透過日常微小選擇反思環境議題。",
-        "source_url": "https://www.huashan1914.com/exhibition/%E5%8C%97%E6%B5%B7%E9%81%93%E6%9D%B1%E5%B7%9D%E7%94%BA%20Furniture%20Fair%202026%20in%20Taiwan",
+        "business_hours": "11:00-20:30",
+        "summary": "《藥師少女的獨語》×FANFANS CAFÉ 主題聯名。貓貓「藥膳雞湯套餐」、壬氏「御膳烤鴨捲餅」等6位角色主題餐點，限定抽卡機12款，滿999元贈「清風小團扇」。每場限時80分鐘。",
+        "source_url": "https://www.nownews.com/news/6883750",
         "tags": [
           "本週末"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "0aec7ae5494b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.526193,
-          24.981131
-        ]
-      },
-      "properties": {
-        "title": "根植心土｜共創豐盛時光",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "新店央北青年社會住宅",
-        "period": {
-          "start": "2026-10-16",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "新北 · 新店央北青年社會住宅 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/zfVKcw/gen-zhi-xin-tu-gong-chuang-feng-sheng-shi-guang-2026-xin-bei",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2609220753516440363300_P520x260.jpg"
       }
     },
     {
@@ -4717,28 +3649,57 @@
     },
     {
       "type": "Feature",
-      "id": "c1170b7ddaae",
+      "id": "7584b0b5f95b",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.560797,
-          25.0437228
+          121.5339575,
+          25.1177211
         ]
       },
       "properties": {
-        "title": "《AHA 原來如此！教科書設計展》（松山文創園區）",
-        "category": "art",
+        "title": "chizUP 週慶限時快閃 @ 新光三越 天母店",
+        "category": "popup",
         "categories": [
-          "art"
+          "popup"
         ],
-        "venue_name": "松山文創園區 台灣設計館",
+        "venue_name": "新光三越 台北天母店 二館 1F「韓味不二」櫃位",
         "period": {
-          "start": "2026-10-14",
-          "end": "2026-11-08"
+          "start": "2026-10-15",
+          "end": "2026-11-15"
         },
-        "business_hours": "（週一休館）",
-        "summary": "台灣設計研究院主辦、美感細胞策展的教科書設計展，從課本設計看見學習中「原來如此」的頓悟瞬間。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/429e79b0-fed3-46f6-850e-47fa04b2ea86",
+        "business_hours": "詳情未公布",
+        "summary": "韓國即食年糕品牌 chizUP 週慶限時快閃，於新光三越台北天母店二館 1F「韓味不二」櫃位登場。品牌同期在全台多站巡迴：台北車站 2F、復興 SOGO B3、新莊宏匯 B1、新店裕隆城 B1、台中漢神及高雄左營新光三越。",
+        "source_url": "https://www.skm.com.tw/page/151/2026101217470001",
+        "tags": [
+          "本週末"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85450b2eba04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5672413,
+          25.0365877
+        ]
+      },
+      "properties": {
+        "title": "2026秋季日本商品展「北國漫步」@ 新光三越信義新天地 A11",
+        "category": "food",
+        "categories": [
+          "food"
+        ],
+        "venue_name": "新光三越信義新天地 A11 6F 信義劇場",
+        "period": {
+          "start": "2026-10-15",
+          "end": "2026-11-03"
+        },
+        "business_hours": "11:00–21:30（週五、六至22:00）",
+        "summary": "北海道主題日本商品展：70+家日本人氣品牌、職人料理與甜點；同場「信義動漫一番街」集結《我推的孩子》《我的英雄學院》《咒術迴戰》等IP周邊。",
+        "source_url": "https://www.skm.com.tw/page/MxBFZHBExB",
         "tags": [
           "本週末"
         ]
@@ -4758,16 +3719,15 @@
         "title": "Owala 品牌快閃店 @ 新光三越A11",
         "category": "popup",
         "categories": [
-          "food",
           "popup"
         ],
         "venue_name": "新光三越台北信義新天地A11 1樓（特斯拉旁）",
         "period": {
           "start": "2026-10-14",
-          "end": "2026-11-03"
+          "end": "2026-10-25"
         },
         "business_hours": "11:00–21:00",
-        "summary": "北海道主題日本商品展：70+家日本人氣品牌、職人料理與甜點；同場「信義動漫一番街」集結《我推的孩子》《我的英雄學院》《咒術迴戰》等IP周邊。",
+        "summary": "台灣首度百貨快閃：撞色新款現貨＋巨型水壺打卡區；塑膠系列每人限購5支、不鏽鋼每款限2支。",
         "source_url": "https://www.nownews.com/news/6883366",
         "tags": [
           "本週末"
@@ -4817,7 +3777,8 @@
         "title": "幾米25週年快閃店（華山1914 藝術西街玻璃屋）",
         "category": "popup",
         "categories": [
-          "popup"
+          "popup",
+          "親子"
         ],
         "venue_name": "華山1914文創園區 藝術西街玻璃屋",
         "period": {
@@ -4827,35 +3788,6 @@
         "business_hours": "11:00-19:00",
         "summary": "幾米品牌25週年首度獨立快閃店：300+種商品與繪本分區展出，首發「月亮忘記了」萬年曆；12/24起「與幾米頭碰頭」沉浸展接棒。",
         "source_url": "https://udn.com/news/story/7270/9803160",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "53ef8fc1d4ad",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.529404,
-          25.044147
-        ]
-      },
-      "properties": {
-        "title": "幾米25週年快閃店與沉浸互動展",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "華山1914文化創意產業園區 東3A館 / 藝術西街",
-        "period": {
-          "start": "2026-10-09",
-          "end": "2026-12-20"
-        },
-        "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 東3A館 / 藝術西街 (進行中・剩56天)",
-        "source_url": "https://wekengo.tw/event/KgLN5Q/ji-mi-25-zhou-nian-huo-dong-ji-mi-kuai-shan-dian-yu-ji-mi-to",
         "tags": [
           "本週末"
         ],
@@ -4957,65 +3889,6 @@
     },
     {
       "type": "Feature",
-      "id": "7c40e5c3c0ec",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.561361,
-          25.047736
-        ]
-      },
-      "properties": {
-        "title": "台北偶戲館親子手作課程「QQ動物執頭偶」【10月場次】",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "台北偶戲館",
-        "period": {
-          "start": "2026-10-09",
-          "end": "2026-10-25"
-        },
-        "business_hours": "",
-        "summary": "台北 · 台北偶戲館 (進行中・今天結束)",
-        "source_url": "https://wekengo.tw/event/OmE2JL/tai-bei-ou-xi-guan-zhou-mo-liao-yu-ti-an-qin-zi-shou-zuo-ke",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610010941586115328860_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "052a317e5ebc",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5291829,
-          25.0446089
-        ]
-      },
-      "properties": {
-        "title": "CRAFT TOKYO X 未來市特展",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "華山1914文創園區 中1A館（未來市）",
-        "period": {
-          "start": "2026-10-08",
-          "end": "2026-11-11"
-        },
-        "business_hours": "11:00–21:00",
-        "summary": "日本工藝飾品、生活選物與插畫創作特展；中川貴雄角色原畫與期間限定商品。",
-        "source_url": "https://news.pchome.com.tw/travel/sharelife/20261014/index-79193600011650216015.html",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "f6bf18f83ab7",
       "geometry": {
         "type": "Point",
@@ -5086,17 +3959,15 @@
         "title": "吉伊卡哇 POP UP STORE @ 新光三越A9",
         "category": "anime",
         "categories": [
-          "anime",
-          "popup",
-          "sale"
+          "anime"
         ],
         "venue_name": "新光三越台北信義新天地 A9 9F宴會展演館",
         "period": {
           "start": "2026-10-07",
-          "end": "2026-11-30"
+          "end": "2026-11-15"
         },
         "business_hours": "平日11:00-22:00／假日11:00-22:30",
-        "summary": "韓國 Y2K 暗黑美學彩妝品牌 RISKY 首次進軍台灣，把全台首間快閃店開在台北信義新光三越 A11 一樓，全品項 9 折。首週（10/15–10/18）打卡免費送品牌手拿鏡，第二週加碼時髦手機鍊（10/22–10/26 每日限量 100 份），消費滿額可加購限定暗黑蝴蝶唇釉鑰匙扣。人氣品項包括大膽鏡面水光唇釉、鏡爆星河眼影盤（入選《Vogue Taiwan》2026 Olive Young 十大必買第 7 名）及微醺柔霧口袋腮紅棒。",
+        "summary": "吉伊卡哇 POP UP STORE・萬聖節變裝限定玩偶・大型裝置打卡・免費入場。",
         "source_url": "https://www.moelong.com/moelongnews/archives/67546",
         "tags": [
           "本週末"
@@ -5105,30 +3976,57 @@
     },
     {
       "type": "Feature",
-      "id": "c947453f1ec1",
+      "id": "7ae9a85a4d50",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.560797,
-          25.0437228
+          121.5672413,
+          25.0365877
         ]
       },
       "properties": {
-        "title": "「粹 · 本質」2026年iF設計獎獲獎作品展（V）（松山文創園區）",
-        "category": "art",
+        "title": "天線寶寶快閃店 @ 新光三越A9",
+        "category": "popup",
         "categories": [
-          "art",
-          "event",
-          "food"
+          "popup"
         ],
-        "venue_name": "松山文創園區（iF 台北設計沙龍）",
+        "venue_name": "新光三越台北信義新天地 A9 9F",
         "period": {
-          "start": "2026-10-06",
-          "end": "2026-11-01"
+          "start": "2026-10-07",
+          "end": "2026-11-08"
         },
-        "business_hours": "10:00-17:00（週日休）",
-        "summary": "社團法人世界和平會主辦的愛心公益市集：生活用品、食品、玩具與書籍義賣，週末繪本說故事、闖關遊戲，11/1 另有四場琺瑯杯裝飾手作（免費材料、每場前半小時現場報名）。義賣結餘用於兒童飽餐服務。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/16e1c9b4-21c0-4c7d-814f-06e0569a8ae2",
+        "business_hours": "",
+        "summary": "天線寶寶快閃店・6大打卡點＋40款新周邊・免費入場（10月初起）。",
+        "source_url": "https://supertaste.tvbs.com.tw/travel/361903",
+        "tags": [
+          "本週末"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6db3bd3dfc96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5672413,
+          25.0365877
+        ]
+      },
+      "properties": {
+        "title": "修麗可 PTIOX 抗皺研究站 @ 新光三越 A11",
+        "category": "popup",
+        "categories": [
+          "popup"
+        ],
+        "venue_name": "新光三越 台北信義新天地 A11",
+        "period": {
+          "start": "2026-10-07",
+          "end": "2026-10-25"
+        },
+        "business_hours": "詳情未公布",
+        "summary": "全球 No.1 頂級醫學美容品牌修麗可（SkinCeuticals）推出新品 #PTIOX 超胜肽抗皺逆時無痕霜，於新光三越信義新天地 A11 開設「醫美級抗皺研究站」：預約報名並完成專業科研級肌膚檢測，即可獲得修麗可明星商品贈禮，並獲 1 對 1 個人化保養方案。",
+        "source_url": "https://www.skm.com.tw/page/121/2026SkinCeuticals",
         "tags": [
           "本週末"
         ]
@@ -5260,16 +4158,16 @@
     },
     {
       "type": "Feature",
-      "id": "91ae7635a158",
+      "id": "8e7f62c527dc",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4995,
-          25.057914
+          121.499418,
+          25.057737
         ]
       },
       "properties": {
-        "title": "2026新北市眷村文化節眷村藝遊體驗工坊",
+        "title": "2026新北市眷村文化節",
         "category": "親子",
         "categories": [
           "市集",
@@ -5278,18 +4176,18 @@
           "節慶",
           "親子"
         ],
-        "venue_name": "空軍三重一村園區",
+        "venue_name": "新北市三重區空軍三重一村",
         "period": {
           "start": "2026-10-03",
           "end": "2026-10-31"
         },
         "business_hours": "",
         "summary": "新北 · 新北市三重區空軍三重一村 (進行中・明天結束)",
-        "source_url": "https://wekengo.tw/event/SP4sIs/2026-xin-bei-shi-juan-cun-wen-hua-jie-juan-cun-yi-you-ti-yan",
+        "source_url": "https://wekengo.tw/event/VWH6Xm/2026-xin-bei-shi-juan-cun-wen-hua-jie",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://static.accupass.com/eventbanner/2609240501092944523130_P520x260.jpg"
+        "image_url": "https://newtaipei.travel/content/images/articles/73426/articles-image-2xcigpfrzek6kytmowtrzq.jpg"
       }
     },
     {
@@ -5415,35 +4313,6 @@
     },
     {
       "type": "Feature",
-      "id": "296a202b16a8",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5644995,
-          25.0338352
-        ]
-      },
-      "properties": {
-        "title": "国立故宮博物院×台北101 特別展（清代の旅へ）",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "台北101展望台（台北市信義區信義路五段7號）",
-        "period": {
-          "start": "2026-10-01",
-          "end": "2027-01-31"
-        },
-        "business_hours": "",
-        "summary": "台北101展望台から清朝時代へバーチャル旅行。限定コラボグッズも販売。",
-        "source_url": "https://x.com/taipeinavi/status/2111030342413148209",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "92cc2e7f3198",
       "geometry": {
         "type": "Point",
@@ -5466,35 +4335,6 @@
         "business_hours": "11:00–21:00",
         "summary": "波鳥工作室以自然生態為題，把日常觀察轉譯成面貌萬千的飾品，於華山1914文創園區芳釀所開設期間限定快閃店。",
         "source_url": "https://www.huashan1914.com/exhibition/%E6%B3%A2%E9%B3%A5",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "b6cd5da553e1",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5291829,
-          25.0446089
-        ]
-      },
-      "properties": {
-        "title": "HUMANITY｜教育部藝術與設計菁英海外培訓計畫 返國學員年度成果展（華山1914）",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "華山1914文創園區",
-        "period": {
-          "start": "2026-10-01",
-          "end": "2026-10-31"
-        },
-        "business_hours": "",
-        "summary": "集結教育部藝術與設計菁英海外培訓計畫返國學員的年度創作成果，呈現新世代設計師對AI時代創作的思考。",
-        "source_url": "https://www.huashan1914.com/exhibition/HUMANITY%EF%BD%9C%E6%95%99%E8%82%B2%E9%83%A8%E8%97%9D%E8%A1%93%E8%88%87%E8%A8%AD%E8%A8%88%E8%8F%81%E8%8B%B1%E6%B5%B7%E5%A4%96%E5%9F%B9%E8%A8%93%E8%A8%88%E7%95%AB%20%E8%BF%94%E5%9C%8B%E5%AD%B8%E5%93%A1%E5%B9%B4%E5%BA%A6%E6%88%90%E6%9E%9C%E5%B1%95",
         "tags": [
           "本週末"
         ]
@@ -5743,6 +4583,38 @@
     },
     {
       "type": "Feature",
+      "id": "12f906e6a4d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546478,
+          24.978061
+        ]
+      },
+      "properties": {
+        "title": "誠品生活新店 UNLOCK快樂行動",
+        "category": "親子",
+        "categories": [
+          "市集",
+          "節慶",
+          "親子"
+        ],
+        "venue_name": "誠品生活新店（新店裕隆城）",
+        "period": {
+          "start": "2026-09-25",
+          "end": "2026-10-31"
+        },
+        "business_hours": "",
+        "summary": "新北 · 誠品生活新店（新店裕隆城） (進行中・剩6天)",
+        "source_url": "https://wekengo.tw/event/GszfUc/cheng-pin-sheng-huo-xin-dian-unlock-kuai-le-xing-dong-9-yue",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2609100920271214988898_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "023ae0731b63",
       "geometry": {
         "type": "Point",
@@ -5863,35 +4735,6 @@
     },
     {
       "type": "Feature",
-      "id": "5c0be888fc11",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5196301,
-          25.0552168
-        ]
-      },
-      "properties": {
-        "title": "「恐怖心展」台北",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "灰棚（近捷運中山站／雙連站）",
-        "period": {
-          "start": "2026-09-12",
-          "end": "2026-11-23"
-        },
-        "business_hours": "10:00-21:00",
-        "summary": "日本爆紅恐怖體驗展首次來台。",
-        "source_url": "https://kyoufushinten.osu.xyz/zh-TW",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "1e897ead250c",
       "geometry": {
         "type": "Point",
@@ -5948,35 +4791,6 @@
           "本週末"
         ],
         "image_url": "https://event.culture.tw/userFiles/NMH/JpgFile/01/60054/AD/60054_0_0_494996.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "8c6b37cbfc19",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "釜山・匯流成潮｜國際設計交流展 BUSAN VIBE: WAVE（松山文創園區）",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "松山文創園區 台灣設計館02展間",
-        "period": {
-          "start": "2026-09-08",
-          "end": "2026-11-08"
-        },
-        "business_hours": "",
-        "summary": "釜山設計浪潮登台，於台灣設計館展出國際設計交流展。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/ad5c73ca-d05a-450a-b4ce-fcd617e8b353",
-        "tags": [
-          "本週末"
-        ]
       }
     },
     {
@@ -6230,9 +5044,8 @@
       },
       "properties": {
         "title": "松山文創園區藝術窗框計畫（捷克藝術家特展）",
-        "category": "art",
+        "category": "戶外",
         "categories": [
-          "art",
           "戶外"
         ],
         "venue_name": "松山文創園區",
@@ -6466,35 +5279,6 @@
     },
     {
       "type": "Feature",
-      "id": "16b254c28f31",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.560797,
-          25.0437228
-        ]
-      },
-      "properties": {
-        "title": "《消失的法老》古夫金字塔VR沉浸體驗（松山文創園區）",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "松山文創園區",
-        "period": {
-          "start": "2026-01-29",
-          "end": "2026-11-30"
-        },
-        "business_hours": "",
-        "summary": "1:1還原古夫金字塔的多人行走式VR沉浸體驗，走入4,500年前的古埃及金字塔內部。",
-        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2",
-        "tags": [
-          "本週末"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "b8a87748fa79",
       "geometry": {
         "type": "Point",
@@ -6522,35 +5306,6 @@
           "本週末"
         ],
         "image_url": "https://mediasphere.com.tw/storage/b1f31a/691c21da7441e/b1f31acda5025fc3f686f002dfef2864.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "7ef6837a3df6",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5861491,
-          24.9953546
-        ]
-      },
-      "properties": {
-        "title": "看你什麼嘴臉！昆蟲的頭等大事特展",
-        "category": "art",
-        "categories": [
-          "art"
-        ],
-        "venue_name": "臺北市立動物園 昆蟲館（台北市文山區新光路二段30號）",
-        "period": {
-          "start": "2025-10-18",
-          "end": "2027-04-30"
-        },
-        "business_hours": "動物園の開館時間に準ず",
-        "summary": "昆虫の頭部構造をテーマにした特展。触角・複眼・口器・頭部の行動の展示と、昆虫活体展示・標本・3D頭部モデル。",
-        "source_url": "https://www.travel.taipei/zh-tw/activity/details/66146",
-        "tags": [
-          "本週末"
-        ]
       }
     },
     {

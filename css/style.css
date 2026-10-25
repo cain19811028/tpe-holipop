@@ -509,7 +509,7 @@ body {
 .cat-badge.anime { background: rgba(168, 85, 247, 0.2); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); }
 .cat-badge.art { background: rgba(20, 184, 166, 0.2); color: #2dd4bf; border: 1px solid rgba(20, 184, 166, 0.35); }
 .cat-badge.event { background: rgba(16, 185, 129, 0.2); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.35); }
-.cat-badge.food { background: rgba(249, 115, 22, 0.2); color: #fb923c; border: 1px solid rgba(249, 115, 22, 0.35); }
+.cat-badge.food, .cat-badge.美食 { background: rgba(249, 115, 22, 0.2); color: #fb923c; border: 1px solid rgba(249, 115, 22, 0.35); }
 
 .tag-weekend {
   font-size: 0.68rem;
@@ -631,7 +631,7 @@ body {
 .custom-pin.anime { background: var(--cat-anime); box-shadow: 0 0 14px var(--cat-anime); }
 .custom-pin.art { background: var(--cat-art); box-shadow: 0 0 14px var(--cat-art); }
 .custom-pin.event { background: var(--cat-event); box-shadow: 0 0 14px var(--cat-event); }
-.custom-pin.food { background: var(--cat-food); box-shadow: 0 0 14px var(--cat-food); }
+.custom-pin.food, .custom-pin.美食 { background: var(--cat-food); box-shadow: 0 0 14px var(--cat-food); }
 
 /* Custom Leaflet Popup */
 .leaflet-popup-content-wrapper {
