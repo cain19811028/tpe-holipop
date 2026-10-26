@@ -134,10 +134,18 @@ body {
 .time-filter-group {
   display: flex;
   align-items: center;
+  gap: 2px;
   background: rgba(0, 0, 0, 0.35);
-  padding: 4px;
+  padding: 3px;
   border-radius: var(--radius-full);
   border: 1px solid var(--border-subtle);
+  overflow-x: auto;
+  max-width: 100%;
+  scrollbar-width: none;
+}
+
+.time-filter-group::-webkit-scrollbar {
+  display: none;
 }
 
 .time-pill-btn {
@@ -145,15 +153,17 @@ body {
   border: none;
   color: var(--text-muted);
   font-family: inherit;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  padding: 6px 14px;
+  padding: 5px 11px;
   border-radius: var(--radius-full);
   cursor: pointer;
   transition: var(--transition);
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .time-pill-btn:hover {

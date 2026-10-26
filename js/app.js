@@ -3,6 +3,34 @@
  * Taipei Weekend & Holiday Radar Web App
  */
 
+// Statutory & Long Weekend Calendar
+const TAIWAN_HOLIDAYS = [
+  // 2026
+  ["2026-01-01", "2026-01-04", "元旦連假"],
+  ["2026-02-14", "2026-02-22", "農曆春節連假"],
+  ["2026-02-27", "2026-03-01", "228連假"],
+  ["2026-04-03", "2026-04-06", "清明兒童連假"],
+  ["2026-05-01", "2026-05-03", "勞動節連假"],
+  ["2026-06-19", "2026-06-21", "端午節連假"],
+  ["2026-09-25", "2026-09-28", "中秋節與教師節連假"],
+  ["2026-10-09", "2026-10-11", "國慶日連假"],
+  ["2026-10-24", "2026-10-26", "光復節連假"],
+  ["2026-12-25", "2026-12-27", "行憲紀念日連假"],
+  ["2026-12-31", "2027-01-03", "跨年元旦連假"],
+  // 2027
+  ["2027-01-01", "2027-01-03", "元旦連假"],
+  ["2027-02-04", "2027-02-10", "農曆春節連假"],
+  ["2027-02-27", "2027-03-01", "228連假"],
+  ["2027-04-03", "2027-04-06", "清明兒童連假"],
+  ["2027-04-30", "2027-05-02", "勞動節連假"],
+  ["2027-06-09", "2027-06-09", "端午節連假"],
+  ["2027-09-15", "2027-09-15", "中秋節連假"],
+  ["2027-10-09", "2027-10-11", "國慶日連假"],
+  ["2027-10-23", "2027-10-25", "光復節連假"],
+  ["2027-12-24", "2027-12-26", "行憲紀念日連假"],
+  ["2027-12-31", "2028-01-02", "元旦連假"],
+];
+
 // Category UI Configuration
 const CATEGORIES = {
   family:   { label: "👨‍👩‍👧 親子", color: "#fb923c", key: "親子" },
@@ -41,10 +69,11 @@ class HoliPopApp {
     this.markersMap = new Map(); // id -> L.marker
     this.clusterGroup = null;
     this.map = null;
+    this.dateOptions = [];
 
     // Filters State
     this.state = {
-      timeScope: "weekend", // 'weekend' | 'holiday' | 'all'
+      timeScope: "all", // date string e.g. '2026-10-26' or 'all'
       category: "all",
       searchQuery: "",
       selectedId: null,
@@ -134,6 +163,13 @@ class HoliPopApp {
 
       // Update data freshness indicator
       const meta = data.metadata || {};
+
+      // Resolve dynamic date options based on data generated_at / today
+      this.dateOptions = this.resolveDateOptions(meta.generated_at);
+      if (this.state.timeScope === "all" || !this.dateOptions.some((o) => o.key === this.state.timeScope)) {
+        this.state.timeScope = this.dateOptions[0].key;
+      }
+      this.renderTimeFilterGroup();
       if (meta.generated_at) {
         const dt = new Date(meta.generated_at);
         const formatted = `${dt.getMonth() + 1}/${dt.getDate()} ${String(dt.getHours()).padStart(2, "0")}:${String(dt.getMinutes()).padStart(2, "0")}`;
@@ -150,6 +186,118 @@ class HoliPopApp {
   }
 
   /* ==========================================================================
+     Dynamic Date Option Resolution
+     ========================================================================== */
+  resolveDateOptions(metaGeneratedAt) {
+    let todayStr;
+    if (metaGeneratedAt) {
+      todayStr = metaGeneratedAt.slice(0, 10);
+    } else {
+      const now = new Date();
+      const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+      const tpe = new Date(utc + 3600000 * 8);
+      const y = tpe.getFullYear();
+      const m = String(tpe.getMonth() + 1).padStart(2, "0");
+      const d = String(tpe.getDate()).padStart(2, "0");
+      todayStr = `${y}-${m}-${d}`;
+    }
+
+    const dateSet = new Set();
+    const today = new Date(todayStr + "T00:00:00");
+    const day = today.getDay(); // 0 is Sun, 6 is Sat
+
+    const isHoliday = (dStr) => {
+      const dt = new Date(dStr + "T00:00:00");
+      const dow = dt.getDay();
+      if (dow === 0 || dow === 6) return true;
+      return TAIWAN_HOLIDAYS.some(([s, e]) => s <= dStr && e >= dStr);
+    };
+
+    const addDays = (dStr, n) => {
+      const dt = new Date(dStr + "T00:00:00");
+      dt.setDate(dt.getDate() + n);
+      const y = dt.getFullYear();
+      const m = String(dt.getMonth() + 1).padStart(2, "0");
+      const d = String(dt.getDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    };
+
+    // If today is a holiday/weekend, include today
+    if (isHoliday(todayStr)) {
+      dateSet.add(todayStr);
+    }
+
+    // Find upcoming weekend
+    let satStr, sunStr;
+    if (day === 6) {
+      satStr = todayStr;
+      sunStr = addDays(todayStr, 1);
+    } else if (day === 0) {
+      satStr = addDays(todayStr, 6);
+      sunStr = addDays(todayStr, 7);
+    } else {
+      const daysToSat = 6 - day;
+      satStr = addDays(todayStr, daysToSat);
+      sunStr = addDays(todayStr, daysToSat + 1);
+    }
+
+    // Check Friday before Saturday (e.g. 3-day long weekend)
+    const friStr = addDays(satStr, -1);
+    if (isHoliday(friStr) && friStr >= todayStr) {
+      dateSet.add(friStr);
+    }
+
+    if (satStr >= todayStr) dateSet.add(satStr);
+    if (sunStr >= todayStr) dateSet.add(sunStr);
+
+    // Check Monday after Sunday (e.g. 3-day long weekend)
+    const monStr = addDays(sunStr, 1);
+    if (isHoliday(monStr) && monStr >= todayStr) {
+      dateSet.add(monStr);
+    }
+
+    const formatDateLabel = (dStr) => {
+      const dt = new Date(dStr + "T00:00:00");
+      const mm = String(dt.getMonth() + 1).padStart(2, "0");
+      const dd = String(dt.getDate()).padStart(2, "0");
+      const weekDays = ["日", "一", "二", "三", "四", "五", "六"];
+      return `${mm}/${dd}（${weekDays[dt.getDay()]}）`;
+    };
+
+    const sorted = Array.from(dateSet).sort();
+    const options = sorted.map((dStr) => ({
+      key: dStr,
+      label: formatDateLabel(dStr),
+      isToday: dStr === todayStr,
+    }));
+
+    options.push({
+      key: "all",
+      label: "全部假日",
+      isToday: false,
+    });
+
+    return options;
+  }
+
+  renderTimeFilterGroup() {
+    const timeGroup = document.getElementById("time-filter-group");
+    if (!timeGroup) return;
+
+    timeGroup.innerHTML = this.dateOptions
+      .map((opt) => {
+        const isActive = this.state.timeScope === opt.key ? "active" : "";
+        return `
+          <button class="time-pill-btn ${isActive}" data-time="${opt.key}" id="time-pill-${opt.key}">
+            <span>${opt.label}</span>
+            <span class="pill-count" id="count-date-${opt.key}">0</span>
+          </button>
+        `;
+      })
+      .join("");
+  }
+
+  /* ==========================================================================
      Filtering Logic (Supports Composite Tags)
      ========================================================================== */
   getFilteredEvents() {
@@ -157,12 +305,14 @@ class HoliPopApp {
       const p = item.properties;
       const tags = p.tags || [];
 
-      // 1. Time Scope Filter
-      if (this.state.timeScope === "weekend") {
-        if (!tags.includes("本週末")) return false;
-      } else if (this.state.timeScope === "holiday") {
-        const hasLongHoliday = tags.some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)));
-        if (!hasLongHoliday) return false;
+      // 1. Time Scope Filter (Exact date matching or all)
+      if (this.state.timeScope !== "all") {
+        const targetDate = this.state.timeScope;
+        const s = p.period?.start || "";
+        const e = p.period?.end || "";
+        if (s > targetDate || e < targetDate) {
+          return false;
+        }
       }
 
       // 2. Category Filter (Supports multi-tags matching)
@@ -201,26 +351,28 @@ class HoliPopApp {
   }
 
   updateCounters() {
-    // Weekend count
-    const weekendCount = this.events.filter((e) => (e.properties.tags || []).includes("本週末")).length;
-    // Holiday count
-    const holidayCount = this.events.filter((e) => (e.properties.tags || []).some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)))).length;
-    // Total count
-    const totalCount = this.events.length;
+    // 1. Update pill counts for each date option
+    for (const opt of this.dateOptions) {
+      const el = document.getElementById(`count-date-${opt.key}`);
+      if (!el) continue;
+      if (opt.key === "all") {
+        el.textContent = this.events.length;
+      } else {
+        const cnt = this.events.filter((item) => {
+          const s = item.properties.period?.start || "";
+          const e = item.properties.period?.end || "";
+          return s <= opt.key && e >= opt.key;
+        }).length;
+        el.textContent = cnt;
+      }
+    }
 
-    const elWeekend = document.getElementById("count-weekend");
-    const elHoliday = document.getElementById("count-holiday");
-    const elAll = document.getElementById("count-all");
-    if (elWeekend) elWeekend.textContent = weekendCount;
-    if (elHoliday) elHoliday.textContent = holidayCount;
-    if (elAll) elAll.textContent = totalCount;
-
-    // Current Scope Events for category counts
+    // 2. Current Scope Events for category counts
     const currentScopeEvents = this.events.filter((item) => {
-      const tags = item.properties.tags || [];
-      if (this.state.timeScope === "weekend") return tags.includes("本週末");
-      if (this.state.timeScope === "holiday") return tags.some((t) => t.includes("連假") || (!["本週末", "下週末"].includes(t)));
-      return true;
+      if (this.state.timeScope === "all") return true;
+      const s = item.properties.period?.start || "";
+      const e = item.properties.period?.end || "";
+      return s <= this.state.timeScope && e >= this.state.timeScope;
     });
 
     const elCatAll = document.getElementById("cat-count-all");
@@ -323,12 +475,11 @@ class HoliPopApp {
 
     countEl.textContent = filteredEvents.length;
 
-    if (this.state.timeScope === "weekend") {
-      titleEl.textContent = "本週末精選假日活動";
-    } else if (this.state.timeScope === "holiday") {
-      titleEl.textContent = "近期連假精選活動";
-    } else {
+    if (this.state.timeScope === "all") {
       titleEl.textContent = "雙北全部假日活動";
+    } else {
+      const opt = this.dateOptions.find((o) => o.key === this.state.timeScope);
+      titleEl.textContent = opt ? `${opt.label} 精選假日活動` : "精選假日活動";
     }
 
     if (filteredEvents.length === 0) {
@@ -436,15 +587,17 @@ class HoliPopApp {
   bindEvents() {
     // Time Scope Switcher
     const timeGroup = document.getElementById("time-filter-group");
-    timeGroup.addEventListener("click", (e) => {
-      const btn = e.target.closest(".time-pill-btn");
-      if (!btn) return;
-      timeGroup.querySelectorAll(".time-pill-btn").forEach((b) => b.classList.remove("active"));
-      btn.classList.add("active");
-      this.state.timeScope = btn.dataset.time;
-      this.state.selectedId = null;
-      this.render();
-    });
+    if (timeGroup) {
+      timeGroup.addEventListener("click", (e) => {
+        const btn = e.target.closest(".time-pill-btn");
+        if (!btn) return;
+        timeGroup.querySelectorAll(".time-pill-btn").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        this.state.timeScope = btn.dataset.time;
+        this.state.selectedId = null;
+        this.render();
+      });
+    }
 
     // Category Filter Buttons
     const catBar = document.getElementById("category-filter-bar");
