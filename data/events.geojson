@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-06T05:00:32.174330+08:00",
-    "total_features": 263,
-    "this_weekend_count": 140
+    "generated_at": "2026-11-07T05:00:32.382779+08:00",
+    "total_features": 276,
+    "this_weekend_count": 149
   },
   "features": [
     {
       "type": "Feature",
-      "id": "e7a21c0dc25c",
+      "id": "6e39cabdad76",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -28,10 +28,10 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · WESTAR (44天後)",
-        "source_url": "https://wekengo.tw/event/bd3gZn/men-piao-arkis2-zhou-nian-sheng-dan-pai-dui",
+        "summary": "台北 · WESTAR (43天後)",
+        "source_url": "https://wekengo.tw/event/Ue5wLW/arkis2-zhou-nian-sheng-dan-pai-dui",
         "tags": [],
-        "image_url": "https://assets.kktix.io/upload_images/596617/1e55ce6ecbc52bd7_medium.png"
+        "image_url": "https://assets.kktix.io/upload_images/596620/2ba190f4ec8825a9_medium.png"
       }
     },
     {
@@ -56,7 +56,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市 信義區 臺北市市民廣場 (44天後)",
+        "summary": "台北 · 臺北市 信義區 臺北市市民廣場 (43天後)",
         "source_url": "https://wekengo.tw/event/cETqua/2026-tai-bei-ma-la-song",
         "tags": [],
         "image_url": "https://www.taiwan.net.tw/pic.ashx?qp=event/d33e38e7-f5a1-409a-af49-2b0e42814c08.jpg&sizetype=2"
@@ -84,10 +84,38 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "新北 · 新莊文化藝術中心演藝廳 (44天後)",
+        "summary": "新北 · 新莊文化藝術中心演藝廳 (43天後)",
         "source_url": "https://wekengo.tw/event/MO0Dny/xin-xiang-shi-nei-guan-le-tuan-sheng-dan-yin-le-jia-nian-hua",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1792143467871mLbGDgH6sW.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53b7f489992e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514393,
+          25.09703
+        ]
+      },
+      "properties": {
+        "title": "我是馬小克：世界暫停五分鐘",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "D.D.Box 劇場（Date Day Box）",
+        "period": {
+          "start": "2026-12-19",
+          "end": "2026-12-20"
+        },
+        "business_hours": "",
+        "summary": "台北 · D.D.Box 劇場（Date Day Box） (42天後)",
+        "source_url": "https://wekengo.tw/event/kHrRKT/wo-shi-ma-xiao-ke-shi-jie-zan-ting-wu-fen-zhong",
+        "tags": [],
+        "image_url": "https://s3.resource.opentix.life/upload/program/1793777752907c5ZFGtlSvp.png"
       }
     },
     {
@@ -112,7 +140,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品表演廳 (43天後)",
+        "summary": "台北 · 誠品表演廳 (42天後)",
         "source_url": "https://wekengo.tw/event/URSdLW/cheng-pin-qin-zi-yin-le-ju-a-ka-de-er-ge-da-mao-xian-san-bu",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1781336018398RIyv3bHAxB.jpeg"
@@ -140,7 +168,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "新北 · 新莊運動公園陽光草坪 (43天後)",
+        "summary": "新北 · 新莊運動公園陽光草坪 (42天後)",
         "source_url": "https://wekengo.tw/event/sXL78j/lan-ni-fa-ya-10-zhou-nian",
         "tags": [],
         "image_url": "https://static.ticketplus.com.tw/event/4cc9ec65e0a19440ea13afcdcae44352/picBigBanner_1788496181400.jpeg"
@@ -168,7 +196,7 @@
           "end": "2026-12-19"
         },
         "business_hours": "",
-        "summary": "新北 · 樹林藝文中心演藝廳 (43天後)",
+        "summary": "新北 · 樹林藝文中心演藝廳 (42天後)",
         "source_url": "https://wekengo.tw/event/Lel3pH/yi-xing-ge-zhang-zhong-ju-tuan-dou-hua-gong-ju-chang-ban-pai",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1783068295949MxWC8eosFy.jpeg"
@@ -226,7 +254,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · 梁實秋故居 (42天後)",
+        "summary": "台北 · 梁實秋故居 (41天後)",
         "source_url": "https://wekengo.tw/event/V1mrXm/saketomodachi-ri-ben-jiu-you-da-ji-chun-wei-lai-san-hui-mu-j",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/596999/ab628ce07f2e8f08_medium.jpg"
@@ -287,7 +315,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (38天後)",
+        "summary": "台北 · 無印良品美麗華門市 (37天後)",
         "source_url": "https://wekengo.tw/event/PwUeNM/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio12141220",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592953/c9df50e5eb6a8b09_medium.jpg"
@@ -315,7 +343,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立美術館 兒藝中心大工作坊 (37天後)",
+        "summary": "台北 · 臺北市立美術館 兒藝中心大工作坊 (36天後)",
         "source_url": "https://wekengo.tw/event/HWdrVt/fa-xian-xin-tiao-spy-sheng-chu",
         "tags": [],
         "image_url": "https://www.tfam.museum/File/Edu/Main/3961/2026092217482051340755.jpg"
@@ -343,7 +371,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 大劇院 (37天後)",
+        "summary": "台北 · 臺北表演藝術中心 大劇院 (36天後)",
         "source_url": "https://wekengo.tw/event/QXNgA4/2026-feng-dong-shi-nei-le-tuan-wu-xian-acg-dian-wan-dong-man",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1790956339672p0u8fzUvTu.jpeg"
@@ -372,7 +400,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 台北世貿一館 (37天後)",
+        "summary": "台北 · 台北世貿一館 (36天後)",
         "source_url": "https://wekengo.tw/event/PYOPNM/2026lkk4-sheng-dan-lao-ren-gong-neng-jin-biao-sai",
         "tags": [],
         "image_url": "https://static.accupass.com/eventbanner/2606250809154727742980_P520x260.jpg"
@@ -400,7 +428,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 大劇院 (37天後)",
+        "summary": "台北 · 臺北表演藝術中心 大劇院 (36天後)",
         "source_url": "https://wekengo.tw/event/eqhG6l/2026-feng-dong-shi-nei-le-tuan-wu-xian-gong-qi-jun-dong-hua",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1759378407767RSiKTBpDr1.jpeg"
@@ -428,7 +456,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市政大樓親子劇場 (36天後)",
+        "summary": "台北 · 臺北市政大樓親子劇場 (35天後)",
         "source_url": "https://wekengo.tw/event/LeuGpH/kuang-mei-qin-zi-yin-le-ju-chang-sheng-dan-wei-ji",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/17883200157078ssn0ZeRAW.jpeg"
@@ -456,7 +484,7 @@
           "end": "2026-12-12"
         },
         "business_hours": "",
-        "summary": "台北 · 文山劇場 (36天後)",
+        "summary": "台北 · 文山劇場 (35天後)",
         "source_url": "https://wekengo.tw/event/QXP6A4/sheng-zhi-xiang-yan-gong-qi-jun-dong-hua-yin-le-hui",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1773305666573HMPHk2x1Ym.png"
@@ -485,7 +513,7 @@
           "end": "2026-12-12"
         },
         "business_hours": "",
-        "summary": "台北 · 台北國際會議中心 (36天後)",
+        "summary": "台北 · 台北國際會議中心 (35天後)",
         "source_url": "https://wekengo.tw/event/EG3Mhx/2026-kong-zhong-ying-yu-jiao-shi-yu-tian-yun-nian-du-sheng-d",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/593712/9d55c46c643802bb_medium.jpg"
@@ -513,7 +541,7 @@
           "end": "2026-12-12"
         },
         "business_hours": "",
-        "summary": "台北 · 文山劇場 (36天後)",
+        "summary": "台北 · 文山劇場 (35天後)",
         "source_url": "https://wekengo.tw/event/LelhpH/sheng-dong-man-acg-yin-le-ji",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1773373817347qVFMATLJ3L.png"
@@ -521,33 +549,30 @@
     },
     {
       "type": "Feature",
-      "id": "51cc0a41c819",
+      "id": "327d17894ff4",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5197,
-          25.0728
+          121.564101,
+          25.033493
         ]
       },
       "properties": {
-        "title": "2026 聖誕頌歌・聖誕 POWER 市集",
-        "category": "親子",
+        "title": "2026 聖誕願望兌換所 The Wishing Room",
+        "category": "市集",
         "categories": [
-          "市集",
-          "戶外",
-          "節慶",
-          "親子"
+          "市集"
         ],
-        "venue_name": "臺北花博公園",
+        "venue_name": "獨一文創（101大樓四樓）",
         "period": {
-          "start": "2026-12-11",
-          "end": "2026-12-13"
+          "start": "2026-12-12",
+          "end": "2026-12-12"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (35天後)",
-        "source_url": "https://wekengo.tw/event/CNU6Sr/2026-sheng-dan-song-ge-sheng-dan-power-shi-ji",
+        "summary": "台北 · 獨一文創（101大樓四樓） (35天後)",
+        "source_url": "https://wekengo.tw/event/MOu8ny/2026-sheng-dan-yuan-wang-dui-huan-suo-thewishingroom",
         "tags": [],
-        "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4624/6d1d3d0f-5fa2-4846-b0a5-e307498caa90.jpg"
+        "image_url": "https://assets.kktix.io/upload_images/597273/e2624503b91b7228_medium.png"
       }
     },
     {
@@ -575,10 +600,41 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (35天後)",
+        "summary": "台北 · 臺北花博公園 (34天後)",
         "source_url": "https://wekengo.tw/event/hkwSBv/de-guo-sheng-dan-shi-ji",
         "tags": [],
         "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4618/da5f8b3e-ae0e-4115-9d73-ddee08b2b3d3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51cc0a41c819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197,
+          25.0728
+        ]
+      },
+      "properties": {
+        "title": "2026 聖誕頌歌・聖誕 POWER 市集",
+        "category": "親子",
+        "categories": [
+          "市集",
+          "戶外",
+          "節慶",
+          "親子"
+        ],
+        "venue_name": "臺北花博公園",
+        "period": {
+          "start": "2026-12-11",
+          "end": "2026-12-13"
+        },
+        "business_hours": "",
+        "summary": "台北 · 臺北花博公園 (34天後)",
+        "source_url": "https://wekengo.tw/event/CNU6Sr/2026-sheng-dan-song-ge-sheng-dan-power-shi-ji",
+        "tags": [],
+        "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4624/6d1d3d0f-5fa2-4846-b0a5-e307498caa90.jpg"
       }
     },
     {
@@ -603,7 +659,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (31天後)",
+        "summary": "台北 · 無印良品美麗華門市 (30天後)",
         "source_url": "https://wekengo.tw/event/YLQMET/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio1271213-w",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592952/2d7531c0634aa340_medium.jpg"
@@ -631,7 +687,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · Comedy Plus 卡米地＋ (30天後)",
+        "summary": "台北 · Comedy Plus 卡米地＋ (29天後)",
         "source_url": "https://wekengo.tw/event/4mw1Ol/2026-tai-bei-xi-ju-jie-126-ka-mi-di-xiao-xing-gu-shi-zhi-zao",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/597227/4463b666f1ff935a_medium.png"
@@ -660,7 +716,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市政府市民廣場 (30天後)",
+        "summary": "新北 · 新北市政府市民廣場 (29天後)",
         "source_url": "https://wekengo.tw/event/2wINY5/2026-xin-bei-shi-ye-dan-ma-la-song-jie-li-sai-ye-dan-kuai-zh",
         "tags": [],
         "image_url": "https://newtaipei.travel/content/images/articles/72447/articles-image-ahevou5rluslcjqcfntzrg.jpg"
@@ -688,7 +744,7 @@
           "end": "2027-02-21"
         },
         "business_hours": "",
-        "summary": "台北 · 1980室內樂集 (29天後)",
+        "summary": "台北 · 1980室內樂集 (28天後)",
         "source_url": "https://wekengo.tw/event/cFX5ua/xiao-xiao-yin-le-da-shi-ke-hai-zi-men-de-dong-ji-jiao-xiang",
         "tags": [
           "行憲紀念日連假",
@@ -776,7 +832,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · Comedy Plus 卡米地＋ (29天後)",
+        "summary": "台北 · Comedy Plus 卡米地＋ (28天後)",
         "source_url": "https://wekengo.tw/event/X7DMbb/2026-tai-bei-xi-ju-jie-ka-mi-di-xiao-xing-gu-shi-zhi-zao-suo",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/597228/b73447862f5cd0f2_medium.png"
@@ -806,7 +862,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (29天後)",
+        "summary": "台北 · 臺北花博公園 (28天後)",
         "source_url": "https://wekengo.tw/event/8HOkR0/tai-bei-hua-bo-nong-min-shi-ji",
         "tags": [],
         "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4461/957a7717-547b-43d7-a81f-6cdd910a04c1.jpg"
@@ -834,7 +890,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品生活新店3F黑盒子 (29天後)",
+        "summary": "新北 · 誠品生活新店3F黑盒子 (28天後)",
         "source_url": "https://wekengo.tw/event/LevZpH/chong-chong-ma-xi-le-yuan-zhi-zhen-de-you-chong-chong",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1790839647677ty7q6hWtgY.png"
@@ -863,7 +919,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "新北 · 臺北基督學院 (29天後)",
+        "summary": "新北 · 臺北基督學院 (28天後)",
         "source_url": "https://wekengo.tw/event/KHYr5Q/bing-qian-ju-tuan-mei-yu-yin-le-ju-jia-nian-hua",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1792549914236xtZndTGO3v.png"
@@ -891,7 +947,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · Comedy Plus 卡米地＋ (29天後)",
+        "summary": "台北 · Comedy Plus 卡米地＋ (28天後)",
         "source_url": "https://wekengo.tw/event/NfHczX/2026-tai-bei-xi-ju-jie-125-ka-mi-di-xiao-xing-gu-shi-zhi-zao",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/597226/fef3e1f2ba52572d_medium.png"
@@ -922,7 +978,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · 微遠虎山Tiger Mountain (29天後)",
+        "summary": "台北 · 微遠虎山Tiger Mountain (28天後)",
         "source_url": "https://wekengo.tw/event/sZZo8j/2026-hu-shan-yin-le-ji-tigermountainramble",
         "tags": [],
         "image_url": "https://indievox.static.tixcraft.com/images/activity/26_iv04241ad_b17123c527390d00f83ba8b229024820.jpg"
@@ -951,7 +1007,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · 西門紅樓北廣場 (29天後)",
+        "summary": "台北 · 西門紅樓北廣場 (28天後)",
         "source_url": "https://wekengo.tw/event/L6qGpH/di-wu-jie-tai-wan-nv-sheng-ri-chang-jie-dong-ri-wei-guang-ma",
         "tags": [],
         "image_url": "https://static.accupass.com/eventbanner/2610021030472005440989_P520x260.jpg"
@@ -979,7 +1035,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · 浸信會懷恩堂 (29天後)",
+        "summary": "台北 · 浸信會懷恩堂 (28天後)",
         "source_url": "https://wekengo.tw/event/p64Ykl/2026-yin-qi-sheng-dan-yin-le-hui-wei-guang-1205-liu-1500",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/595880/20c525e663b03f8a_medium.jpg"
@@ -1007,7 +1063,7 @@
           "end": "2027-06-27"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市新店區中興路三段70號【裕隆城_誠品生活新店3樓實驗場】 (28天後)",
+        "summary": "新北 · 新北市新店區中興路三段70號【裕隆城_誠品生活新店3樓實驗場】 (27天後)",
         "source_url": "https://wekengo.tw/event/F8H4GX/20261242027630-meng-meng-zhu-er-tong-le-yuan-zai-cheng-pin-s",
         "tags": [
           "行憲紀念日連假",
@@ -1070,7 +1126,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "新北 · 板橋大遠百-米蘭廣場 (28天後)",
+        "summary": "新北 · 板橋大遠百-米蘭廣場 (27天後)",
         "source_url": "https://wekengo.tw/event/hpiTBv/pan-duo-la-2026-tong-le-xing-qiu-xin-bei-huan-le-ye-dan-chen",
         "tags": [],
         "image_url": "https://17847market.com.tw/wp-content/uploads/2026/10/842916578_1432494028346655_7578318687903641882_n-e1791712760991.jpg"
@@ -1098,7 +1154,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · 文山劇場 (28天後)",
+        "summary": "台北 · 文山劇場 (27天後)",
         "source_url": "https://wekengo.tw/event/IzHfvB/ou-ou-ou-ju-tuan-xiao-hu-li-mai-shou-tao",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1786677485867Q5HqZ5qr89.png"
@@ -1128,7 +1184,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · 國立臺北藝術大學 荒山劇場 (28天後)",
+        "summary": "台北 · 國立臺北藝術大學 荒山劇場 (27天後)",
         "source_url": "https://wekengo.tw/event/sMRb8j/2026-yao-shan-ji-yao-wu-man-shan-montmonstermatsurimistymoun",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/596441/c1dc01a560362149_medium.png"
@@ -1157,7 +1213,7 @@
           "end": "2027-01-01"
         },
         "business_hours": "",
-        "summary": "台北 · 觀光傳播局 (27天後)",
+        "summary": "台北 · 觀光傳播局 (26天後)",
         "source_url": "https://wekengo.tw/event/qN131J/2026-tai-bei-ye-dan-ai-wu-xian",
         "tags": [
           "行憲紀念日連假",
@@ -1189,7 +1245,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (25天後)",
+        "summary": "台北 · 無印良品美麗華門市 (24天後)",
         "source_url": "https://wekengo.tw/event/kHMrKT/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio121126-wu",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592951/f9e98a9b8fcfeee1_medium.jpg"
@@ -1217,7 +1273,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 西門紅樓 (23天後)",
+        "summary": "台北 · 西門紅樓 (22天後)",
         "source_url": "https://wekengo.tw/event/KgxT5Q/2026-tai-bei-xi-ju-jie-1129fun-xing-qiu-ji-xing-er-tong-gu-s",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592513/626af981ae4bbd05_medium.jpg"
@@ -1246,7 +1302,7 @@
           "end": "2026-12-31"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北自來水事業處 (22天後)",
+        "summary": "台北 · 臺北自來水事業處 (21天後)",
         "source_url": "https://wekengo.tw/event/oQDlrK/2026-gong-guan-sheng-dan-ji",
         "tags": [
           "行憲紀念日連假",
@@ -1277,7 +1333,7 @@
           "end": "2026-12-27"
         },
         "business_hours": "",
-        "summary": "台北 · Comedy Plus 卡米地＋ (22天後)",
+        "summary": "台北 · Comedy Plus 卡米地＋ (21天後)",
         "source_url": "https://wekengo.tw/event/sbCG8j/2026-tai-bei-xi-ju-jie-1128-tai-bei-gk-ba-ba-yuan-chuang-gu",
         "tags": [
           "行憲紀念日連假"
@@ -1308,7 +1364,7 @@
           "end": "2026-12-27"
         },
         "business_hours": "",
-        "summary": "台北 · 大稻埕碼頭廣場 (22天後)",
+        "summary": "台北 · 大稻埕碼頭廣場 (21天後)",
         "source_url": "https://wekengo.tw/event/rDTuCl/hao-shi-ji-x1112-yue-da-dao-cheng-ma-tou-guang-chang-sheng-h",
         "tags": [
           "行憲紀念日連假"
@@ -1338,7 +1394,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 大稻埕戲苑曲藝場 (22天後)",
+        "summary": "台北 · 大稻埕戲苑曲藝場 (21天後)",
         "source_url": "https://wekengo.tw/event/YUrcET/wu-mao-xi-chu-deng-ke-lou-de-wei-tuo-xiao-xi-chong-bai-xian",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1789526247640F17cdRNxCC.jpeg"
@@ -1366,7 +1422,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · 喜劇公車（Comedy Plus 卡米地＋） (22天後)",
+        "summary": "台北 · 喜劇公車（Comedy Plus 卡米地＋） (21天後)",
         "source_url": "https://wekengo.tw/event/qJE031/2026-tai-bei-xi-ju-jie-xi-ju-gong-che",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/596006/af8e39b31e9266e6_medium.png"
@@ -1395,7 +1451,7 @@
           "end": "2026-11-30"
         },
         "business_hours": "",
-        "summary": "台北 · 艋舺青山宮 (22天後)",
+        "summary": "台北 · 艋舺青山宮 (21天後)",
         "source_url": "https://wekengo.tw/event/4BtOlu/meng-xia-qing-shan-gong-an-fang-ji-rao-jing",
         "tags": [],
         "image_url": "https://www.travel.taipei/content/images/articles/573332/1024x768_articles-image-3kqihcpvc0w04t1n7ta2bg.jpg"
@@ -1423,7 +1479,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺灣戲曲中心小表演廳 (22天後)",
+        "summary": "台北 · 臺灣戲曲中心小表演廳 (21天後)",
         "source_url": "https://wekengo.tw/event/63MKgx/baby-de-yu-zhou-nu-qi-da-mao-xian-xiao-chuan-qi-ju-chang",
         "tags": [],
         "image_url": "https://event.culture.tw/userFiles/XCT/JpgFile/01/60171/AD/60171_0_0_856093.jpg"
@@ -1451,7 +1507,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 西門紅樓 (22天後)",
+        "summary": "台北 · 西門紅樓 (21天後)",
         "source_url": "https://wekengo.tw/event/U8SJLW/2026-tai-bei-xi-ju-jie-fun-xing-qiu-ji-xing-er-tong-gu-shi-j",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592510/56c127c7c76908ba_medium.jpg"
@@ -1479,7 +1535,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市政大樓親子劇場 (22天後)",
+        "summary": "台北 · 臺北市政大樓親子劇場 (21天後)",
         "source_url": "https://wekengo.tw/event/5VowQZ/ai-le-ju-gong-chang-er-tong-ge-wu-ju-xin-gui-tu-sai-pao-plus",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1787553114703rapV9MjMwX.jpeg"
@@ -1507,10 +1563,38 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市藝文推廣處城市舞台 (22天後)",
+        "summary": "台北 · 臺北市藝文推廣處城市舞台 (21天後)",
         "source_url": "https://wekengo.tw/event/ao6vtN/zhu-tan-zhang-xiao-ju-chang-song-shu-da-heng-jing-hun-ji",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1786677786171Bpr2dCWkyU.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f5026a3fd11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568078,
+          25.038185
+        ]
+      },
+      "properties": {
+        "title": "SIANGYOO TAKES OVER TAIPEI",
+        "category": "派對",
+        "categories": [
+          "派對"
+        ],
+        "venue_name": "台北寒舍艾美酒店大宴會廳",
+        "period": {
+          "start": "2026-11-28",
+          "end": "2026-11-29"
+        },
+        "business_hours": "",
+        "summary": "台北 · 台北寒舍艾美酒店大宴會廳 (21天後)",
+        "source_url": "https://wekengo.tw/event/rPKdCl/siangyootakesovertaipei",
+        "tags": [],
+        "image_url": "https://assets.kktix.io/upload_images/597207/5ff445f74edb9ceb_medium.png"
       }
     },
     {
@@ -1535,7 +1619,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · CITY LINK 松山壹號店(1F圓頂廣場) (22天後)",
+        "summary": "台北 · CITY LINK 松山壹號店(1F圓頂廣場) (21天後)",
         "source_url": "https://wekengo.tw/event/2GxPY5/gan-en-nuan-xin-ji",
         "tags": [],
         "image_url": "https://17847market.com.tw/wp-content/uploads/2026/09/821523297_1439339238065312_2253508077578590372_n-e1790405997594.jpg"
@@ -1563,7 +1647,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · 西門紅樓 (22天後)",
+        "summary": "台北 · 西門紅樓 (21天後)",
         "source_url": "https://wekengo.tw/event/g3uDHJ/2026-tai-bei-xi-ju-jie-1128fun-xing-qiu-ji-xing-er-tong-gu-s",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592512/dc0bdbafba9c84dd_medium.jpg"
@@ -1591,7 +1675,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品LaLaport南港門市 (22天後)",
+        "summary": "台北 · 無印良品LaLaport南港門市 (21天後)",
         "source_url": "https://wekengo.tw/event/NjrRzX/openmuji-zhi-wu-xing-ran-bu-zhi-gou-wu-dai-wu-yin-liang-pin",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/592557/e560ecf1c8745110_medium.jpeg"
@@ -1619,7 +1703,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市中山堂中正廳 (22天後)",
+        "summary": "台北 · 臺北市中山堂中正廳 (21天後)",
         "source_url": "https://wekengo.tw/event/RnfQeN/sheng-dan-ge-ju-a-mao-yu-ye-fang-ke",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1787886504727jyG1qrO8ci.png"
@@ -1647,7 +1731,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · Live House D (22天後)",
+        "summary": "台北 · Live House D (21天後)",
         "source_url": "https://wekengo.tw/event/JotKaE/tiao-tiao-chang-chang-pai-dui-sui-ji-wu-dao-x-kong-er-ka-la",
         "tags": [],
         "image_url": "https://static.ticketplus.com.tw/event/2c50382df8ffe142e2ce48139b4126b6/picBigBanner_1790908675458.jpeg"
@@ -1677,7 +1761,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 工務局 公園處 (21天後)",
+        "summary": "台北 · 工務局 公園處 (20天後)",
         "source_url": "https://wekengo.tw/event/8reR0I/2026-shi-lin-guan-di-ju-zhan",
         "tags": [],
         "image_url": "https://www.travel.taipei/content/images/articles/573327/1024x768_articles-image-lj4vaktd7ugpoqjfd1wxca.jpg"
@@ -1705,7 +1789,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 士林官邸公園 (21天後)",
+        "summary": "台北 · 士林官邸公園 (20天後)",
         "source_url": "https://wekengo.tw/event/alz6tN/2026-shi-lin-guan-di-ju-zhan",
         "tags": [],
         "image_url": "https://ezgo.ardswc.gov.tw/_api/content/images/articles/44940/articles-image-c_xjzhdnyucaw1cwki1j6w.jpg"
@@ -1789,7 +1873,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (21天後)",
+        "summary": "台北 · 臺北花博公園 (20天後)",
         "source_url": "https://wekengo.tw/event/CDTvSr/2026-tai-wan-hua-hui-tui-jie-hui",
         "tags": [],
         "image_url": "https://ws.expopark.taipei/001/Upload/400/relpic/9029/4590/5bd19f4d-b00e-4f59-acf7-843ba6f8c781.jpg"
@@ -1817,7 +1901,7 @@
           "end": "2026-12-17"
         },
         "business_hours": "",
-        "summary": "台北 · 國立歷史博物館 (20天後)",
+        "summary": "台北 · 國立歷史博物館 (19天後)",
         "source_url": "https://wekengo.tw/event/Ue7MLW/shi-guang-shou-hu-zhe-yin-fa-shu-wei-ti-yan-huo-dong-1112-yu",
         "tags": [],
         "image_url": "https://event.culture.tw/userFiles/NMH/JpgFile/01/60067/AD/60067_0_0_765665.png"
@@ -1845,7 +1929,7 @@
           "end": "2026-11-30"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (17天後)",
+        "summary": "台北 · 無印良品美麗華門市 (16天後)",
         "source_url": "https://wekengo.tw/event/OvwjJL/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio11231130",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/591800/586c56182ed59530_medium.jpg"
@@ -1873,7 +1957,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 松山文創園區 (16天後)",
+        "summary": "台北 · 松山文創園區 (15天後)",
         "source_url": "https://wekengo.tw/event/X7Nqbb/qun-yi-ting-ni-sheng-xing-fu-an-xin-yang-2026-qun-yi-bao-bao",
         "tags": [],
         "image_url": "https://www.songshanculturalpark.org/gallery/1793867187_e883c83ca6465017b06c.jpg"
@@ -1901,7 +1985,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 國立歷史博物館 (16天後)",
+        "summary": "台北 · 國立歷史博物館 (15天後)",
         "source_url": "https://wekengo.tw/event/JoE0aE/2026-mo-fa-kai-xiang-yi-shu-xin-tan-xian-qin-zi-chuang-zuo-g",
         "tags": [],
         "image_url": "https://event.culture.tw/userFiles/NMH/JpgFile/01/60068/AD/60068_0_0_764570.jpg"
@@ -1929,7 +2013,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市政大樓親子劇場 (16天後)",
+        "summary": "台北 · 臺北市政大樓親子劇場 (15天後)",
         "source_url": "https://wekengo.tw/event/8Mz6R0/sheng-qi-wang-zi-qin-zi-hui-ben-yin-le-hui",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1789524894941JTLpG4buGd.png"
@@ -1957,7 +2041,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 大稻埕戲苑 (16天後)",
+        "summary": "台北 · 大稻埕戲苑 (15天後)",
         "source_url": "https://wekengo.tw/event/eqF56l/jing-sheng-ju-ji-xi-qu-wan-hua-tong",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1790780542940zFSZFb4BL7.jpeg"
@@ -1985,7 +2069,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北文創大樓 6 樓 (16天後)",
+        "summary": "台北 · 臺北文創大樓 6 樓 (15天後)",
         "source_url": "https://wekengo.tw/event/6nxdgx/huo-fu-man-de-wan-ju-xiang-2026-dong-ri-chang",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/575363/KKTIX_Banner_medium.jpg"
@@ -2013,7 +2097,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品生活新店 (16天後)",
+        "summary": "新北 · 誠品生活新店 (15天後)",
         "source_url": "https://wekengo.tw/event/kgLZKT/xin-bei-xin-dian-shu-dian-bai-le-jie-jie-shuo-wei-shen-me-bu",
         "tags": [],
         "image_url": "https://meet.eslite.com/Content/Images/ArtShow/CT_WHY_20261019143706.jpg"
@@ -2043,7 +2127,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "新北 · 府中廣場、府中徒步區 (15天後)",
+        "summary": "新北 · 府中廣場、府中徒步區 (14天後)",
         "source_url": "https://wekengo.tw/event/zfI7cw/cun-she-ji-shi-2026-xin-bei-ye-dan-cheng-fu-zhong-deng-qu",
         "tags": [],
         "image_url": "https://17847market.com.tw/wp-content/uploads/2026/10/841057268_1646468083667025_2339064602765183178_n-e1791711848586.jpg"
@@ -2071,7 +2155,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立美術館 兒藝中心大工作坊 (15天後)",
+        "summary": "台北 · 臺北市立美術館 兒藝中心大工作坊 (14天後)",
         "source_url": "https://wekengo.tw/event/2Fk8Y5/ai-de-bian-jie-shen-ti-di-tu-gong-zuo-fang",
         "tags": [],
         "image_url": "https://www.tfam.museum/File/Edu/Main/3967/2026092217460279170006.jpg"
@@ -2099,7 +2183,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市藝文中心演藝廳 (15天後)",
+        "summary": "新北 · 新北市藝文中心演藝廳 (14天後)",
         "source_url": "https://wekengo.tw/event/AbDis1/qin-zi-yin-le-ju-a-ning-gu-de-ba-bi-bu-jian-le-xiao-er-zi-do",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/17736200701549Uw8RA7T1P.png"
@@ -2127,7 +2211,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "新北 · 身聲淡水小劇場 (15天後)",
+        "summary": "新北 · 身聲淡水小劇場 (14天後)",
         "source_url": "https://wekengo.tw/event/FsPUGX/shen-sheng-ju-chang-bu-fei-kua-cun-shi-yan-shi-hai-lang-gao",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1792386944429EDuiw4QB8h.jpeg"
@@ -2155,7 +2239,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文創園區東3B館 烏梅劇院 (15天後)",
+        "summary": "台北 · 華山1914文創園區東3B館 烏梅劇院 (14天後)",
         "source_url": "https://wekengo.tw/event/Ab2us1/yi-xing-ge-zhang-zhong-ju-tuan-si-ling-guo-tian-xiang-shu-zh",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1786595246814sRkRKVtg8J.png"
@@ -2183,7 +2267,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品表演廳 (15天後)",
+        "summary": "台北 · 誠品表演廳 (14天後)",
         "source_url": "https://wekengo.tw/event/kgxbKT/cheng-pin-qin-zi-yin-le-ju-a-ka-de-er-ge-da-mao-xian-er-bu-q",
         "tags": [],
         "image_url": "https://s3.resource.opentix.life/upload/program/1790158744763dCBshkNpdm.jpeg"
@@ -2212,7 +2296,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 一八九魚鋪 (15天後)",
+        "summary": "新北 · 一八九魚鋪 (14天後)",
         "source_url": "https://wekengo.tw/event/ihtbDf/yi-ba-jiu-yu-pu-ao-di-shi-yu-xiao-lv-xing",
         "tags": [],
         "image_url": "https://ezgo.ardswc.gov.tw/_api/content/images/articles/44456/articles-RY6GuE1cS0uSFUGUgZinIw.png"
@@ -2240,38 +2324,10 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 中和區民享藝文特區 (15天後)",
+        "summary": "新北 · 中和區民享藝文特區 (14天後)",
         "source_url": "https://wekengo.tw/event/G8k6Uc/zhong-he-yuan-shan-fen-guan-homelibrary-xi-lie-huo-dong-dian",
         "tags": [],
         "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5FzDfpQFUL8cLCpeGSrvhF99zMuPh8ZwCLFnxJHWgzEIK0%3D"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "c80c0c27259a",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.47413,
-          25.003572
-        ]
-      },
-      "properties": {
-        "title": "【中和員山分館】Home Library動手作麵包",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "中和區民享藝文特區",
-        "period": {
-          "start": "2026-11-21",
-          "end": "2026-11-21"
-        },
-        "business_hours": "",
-        "summary": "新北 · 中和區民享藝文特區 (15天後)",
-        "source_url": "https://wekengo.tw/event/sZ6n8j/zhong-he-yuan-shan-fen-guan-homelibrary-xi-lie-huo-dong-dong",
-        "tags": [],
-        "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5Fz%2BSK1B17Pafcv%2FIdf%2FxJ918dMWc3zLDzsQQo4Q9Yu69I%3D"
       }
     },
     {
@@ -2296,10 +2352,38 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 中和員山分館 (15天後)",
+        "summary": "新北 · 中和員山分館 (14天後)",
         "source_url": "https://wekengo.tw/event/aoCLtN/zhong-he-yuan-shan-fen-guan-lu-dao-wan-hui-ben-xiao-li-zuo-d",
         "tags": [],
         "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5Fz3shVHLqP%2B1ScY3Dl99GkUP164JDnkADlMDaTgtKwL7o%3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c80c0c27259a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47413,
+          25.003572
+        ]
+      },
+      "properties": {
+        "title": "【中和員山分館】Home Library動手作麵包",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "中和區民享藝文特區",
+        "period": {
+          "start": "2026-11-21",
+          "end": "2026-11-21"
+        },
+        "business_hours": "",
+        "summary": "新北 · 中和區民享藝文特區 (14天後)",
+        "source_url": "https://wekengo.tw/event/sZ6n8j/zhong-he-yuan-shan-fen-guan-homelibrary-xi-lie-huo-dong-dong",
+        "tags": [],
+        "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5Fz%2BSK1B17Pafcv%2FIdf%2FxJ918dMWc3zLDzsQQo4Q9Yu69I%3D"
       }
     },
     {
@@ -2324,7 +2408,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 中和員山分館 (15天後)",
+        "summary": "新北 · 中和員山分館 (14天後)",
         "source_url": "https://wekengo.tw/event/H0Z0Vt/zhong-he-yuan-shan-fen-guan-pi-ke-min-xiao-hua-pen-diy",
         "tags": [],
         "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2BGgPOM6v5FzUj%2BOeC6Po%2FQjVK0aj1BktGQA1wnlFIcdW6wzNsA7QaY%3D"
@@ -2352,7 +2436,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 青少年圖書館2樓創新學習中心 (15天後)",
+        "summary": "新北 · 青少年圖書館2樓創新學習中心 (14天後)",
         "source_url": "https://wekengo.tw/event/CNFRSr/xin-bei-shi-qing-shao-nian-tu-shu-guan-la-ji-qu-na-er-huan-b",
         "tags": [],
         "image_url": "https://atpass.ntpclib.gov.tw/images/67dfa6d22617472492c799619b388b0f?imgKey=OzddXOTSs3GowI3whT%2Fzw%2FGco8bsf6onYUbLPM%2Bt3KJZyPG5uEMFrBSTAPjU%2FX0nAV7Qc2UnemU%3D"
@@ -2380,7 +2464,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "新北 · 中和藝文基地 (15天後)",
+        "summary": "新北 · 中和藝文基地 (14天後)",
         "source_url": "https://wekengo.tw/event/KHjC5Q/zhong-he-yi-wen-ji-di-yi-shu-shi-ji",
         "tags": [],
         "image_url": "https://17847market.com.tw/wp-content/uploads/2026/10/840991391_1804901618308057_8910266947636577353_n-e1791712769709.jpg"
@@ -2408,7 +2492,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心大劇院 (14天後)",
+        "summary": "台北 · 臺北表演藝術中心大劇院 (13天後)",
         "source_url": "https://wekengo.tw/event/uBBw2Y/lun-dun-quan-ben-yin-le-ju-shi-rui-ke",
         "tags": [],
         "image_url": "https://uevent.udnfunlife.com/upload/activity_db9a70a778.jpg"
@@ -2466,7 +2550,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 華山劇場 / 中4A館 紅酒作業場 (14天後)",
+        "summary": "台北 · 華山1914文化創意產業園區 華山劇場 / 中4A館 紅酒作業場 (13天後)",
         "source_url": "https://wekengo.tw/event/uG9B2Y/xing-you-suo-ai-ru-hai-zi-ban-zi-you-hai-zi-de-shu-wu-27-zho",
         "tags": [],
         "image_url": "https://files.huashan1914.com/螢幕擷取畫面 2026-10-30 111839.png"
@@ -2494,7 +2578,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 中7B館 維修工場 (14天後)",
+        "summary": "台北 · 華山1914文化創意產業園區 中7B館 維修工場 (13天後)",
         "source_url": "https://wekengo.tw/event/X7iZbb/wan-hai-ci-shan-rang-ai-shan-yao-she-fu-shi-ji",
         "tags": [],
         "image_url": "https://files.huashan1914.com/萬海慈善_1920x1080.jpg"
@@ -2523,7 +2607,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市樹林區樹林藝文中心 (10天後)",
+        "summary": "新北 · 新北市樹林區樹林藝文中心 (9天後)",
         "source_url": "https://wekengo.tw/event/2FZ0Y5/2026-shu-lin-tiao-tiao-dao-wu-dao-jie",
         "tags": [],
         "image_url": "https://newtaipei.travel/content/images/articles/73561/articles-image-_xi90pyjqkcrsk2iqmrftg.png"
@@ -2551,7 +2635,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (10天後)",
+        "summary": "台北 · 無印良品美麗華門市 (9天後)",
         "source_url": "https://wekengo.tw/event/AXyys1/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio11161122",
         "tags": [],
         "image_url": "https://assets.kktix.io/upload_images/590825/64c5a6eea16a1f01_medium.jpg"
@@ -2579,7 +2663,7 @@
           "end": "2026-11-23"
         },
         "business_hours": "",
-        "summary": "台北 · 艋舺清水巖祖師廟 (9天後)",
+        "summary": "台北 · 艋舺清水巖祖師廟 (8天後)",
         "source_url": "https://wekengo.tw/event/iBkzDf/2026-tai-bei-gu-ji-ri-xi-lie-huo-dong-xiu-fu-gong-zuo-fang-g",
         "tags": [
           "下週末"
@@ -2609,7 +2693,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 台北市政府青年局 (9天後)",
+        "summary": "台北 · 台北市政府青年局 (8天後)",
         "source_url": "https://wekengo.tw/event/o2BTlr/tai-wan-pai-shen-jiang-lin-xu-jun-wei-pai-shen-mo-shu-xiu",
         "tags": [
           "下週末"
@@ -2642,7 +2726,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市林口區竹林山觀音寺 (9天後)",
+        "summary": "新北 · 新北市林口區竹林山觀音寺 (8天後)",
         "source_url": "https://wekengo.tw/event/RqZ7eN/2026-xin-bei-shi-lin-kou-zi-di-xi-wen-hua-jie-ji-le-lin-yuan",
         "tags": [
           "下週末"
@@ -2672,7 +2756,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "新北 · 樹林藝文中心演藝廳 (9天後)",
+        "summary": "新北 · 樹林藝文中心演藝廳 (8天後)",
         "source_url": "https://wekengo.tw/event/SNnFIs/long-nv-liu-lang-ji",
         "tags": [
           "下週末"
@@ -2704,7 +2788,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "新北 · 草嶺古道 (8天後)",
+        "summary": "新北 · 草嶺古道 (7天後)",
         "source_url": "https://wekengo.tw/event/QXw0A4/2026-cao-ling-gu-dao-mang-hua-ji",
         "tags": [
           "下週末"
@@ -2734,7 +2818,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市板橋區國定古蹟林本源園邸 (8天後)",
+        "summary": "新北 · 新北市板橋區國定古蹟林本源園邸 (7天後)",
         "source_url": "https://wekengo.tw/event/sMXW8j/2026-huan-lv-lin-yuan",
         "tags": [
           "下週末"
@@ -2753,7 +2837,7 @@
         ]
       },
       "properties": {
-        "title": "YOU MEAT",
+        "title": "YOU MEAT 沉浸式密室逃脫體驗",
         "category": "親子",
         "categories": [
           "親子"
@@ -2764,7 +2848,7 @@
           "end": "2026-12-06"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 中4B館 (8天後)",
+        "summary": "台北 · 華山1914文化創意產業園區 中4B館 (7天後)",
         "source_url": "https://wekengo.tw/event/eM8Z6l/youmeat",
         "tags": [
           "下週末"
@@ -2796,7 +2880,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 金八廣場 / 華山劇場 / 忠孝三角 / 中三前廣場 / 樹前草地 (8天後)",
+        "summary": "台北 · 華山1914文化創意產業園區 金八廣場 / 華山劇場 / 忠孝三角 / 中三前廣場 / 樹前草地 (7天後)",
         "source_url": "https://wekengo.tw/event/Nf6NzX/gong-yi-tong-hang-yuan-she-gong-hao",
         "tags": [
           "下週末"
@@ -2827,7 +2911,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北花博公園 (8天後)",
+        "summary": "台北 · 臺北花博公園 (7天後)",
         "source_url": "https://wekengo.tw/event/ujvm2Y/natureshow-zi-ran-zhan",
         "tags": [
           "下週末"
@@ -2857,7 +2941,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 大劇院 (8天後)",
+        "summary": "台北 · 臺北表演藝術中心 大劇院 (7天後)",
         "source_url": "https://wekengo.tw/event/5VhgQZ/xin-gu-dian-shi-nei-le-tuan-yin-le-ma-xi-ju-chang-bang-ka-de",
         "tags": [
           "下週末"
@@ -2887,7 +2971,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 忠泰RS289 (8天後)",
+        "summary": "台北 · 忠泰RS289 (7天後)",
         "source_url": "https://wekengo.tw/event/vz1Jmz/2026-sheng-bo-sa-man-outintheloop-kua-guo-yuan-ju-gong-yan-y",
         "tags": [
           "下週末"
@@ -2917,7 +3001,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · ATT 4 FUN 7F (8天後)",
+        "summary": "台北 · ATT 4 FUN 7F (7天後)",
         "source_url": "https://wekengo.tw/event/G8WaUc/whoscomingvol3",
         "tags": [
           "下週末"
@@ -2947,7 +3031,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 松山文創園區一號倉庫 (8天後)",
+        "summary": "台北 · 松山文創園區一號倉庫 (7天後)",
         "source_url": "https://wekengo.tw/event/mzEgx3/di-er-jie-tce-tai-wan-ka-pai-zhan-lan-hui",
         "tags": [
           "下週末"
@@ -2978,7 +3062,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 紀州庵文學森林 戶外園區 (8天後)",
+        "summary": "台北 · 紀州庵文學森林 戶外園區 (7天後)",
         "source_url": "https://wekengo.tw/event/H0KRVt/xiao-nong-zhi-ren-mu-ji-ji-zhou-an-15-zhou-nian-gan-en-yan-m",
         "tags": [
           "下週末"
@@ -3009,7 +3093,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 1F CITY LINK 南港店(AB棟1F廣場) (8天後)",
+        "summary": "台北 · 1F CITY LINK 南港店(AB棟1F廣場) (7天後)",
         "source_url": "https://wekengo.tw/event/ELlIhx/hong-ye-xiao-ting-tong-citylink-nan-gang-dian",
         "tags": [
           "下週末"
@@ -3028,7 +3112,7 @@
         ]
       },
       "properties": {
-        "title": "海象莫雷的漂流日誌親子音樂劇",
+        "title": "極致藝術《海象莫雷的漂流日誌》親子音樂劇",
         "category": "親子",
         "categories": [
           "親子"
@@ -3039,7 +3123,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市藝文中心演藝廳 (8天後)",
+        "summary": "新北 · 新北市藝文中心演藝廳 (7天後)",
         "source_url": "https://wekengo.tw/event/X1Edbb/ji-zhi-yi-shu-hai-xiang-mo-lei-de-piao-liu-ri-zhi-qin-zi-yin",
         "tags": [
           "下週末"
@@ -3070,7 +3154,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "新北 · 新莊宏匯廣場 (8天後)",
+        "summary": "新北 · 新莊宏匯廣場 (7天後)",
         "source_url": "https://wekengo.tw/event/5VfbQZ/xin-zhuang-hong-hui-zhi-shi-ji-shan-yao-sheng-dan-dong-ri-sh",
         "tags": [
           "下週末"
@@ -3100,7 +3184,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品R79 (8天後)",
+        "summary": "台北 · 誠品R79 (7天後)",
         "source_url": "https://wekengo.tw/event/4v79Ol/tai-bei-r79-you-shi-gu-shi-lie-che-shi-jie-shang-zui-hai-xiu",
         "tags": [
           "下週末"
@@ -3130,7 +3214,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品生活松菸 (8天後)",
+        "summary": "台北 · 誠品生活松菸 (7天後)",
         "source_url": "https://wekengo.tw/event/NwDMzX/tai-bei-song-yan-er-tong-guan-2026-yuan-chuang-ji-di-jie-tai",
         "tags": [
           "下週末"
@@ -3160,7 +3244,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市中山堂中正廳 (8天後)",
+        "summary": "台北 · 臺北市中山堂中正廳 (7天後)",
         "source_url": "https://wekengo.tw/event/qJGa31/zhang-zheng-jie-qin-zi-yin-le-hui-da-re-qi-qiu-huan-you-shi",
         "tags": [
           "下週末"
@@ -3190,7 +3274,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · La Fin Taipei (8天後)",
+        "summary": "台北 · La Fin Taipei (7天後)",
         "source_url": "https://wekengo.tw/event/GR3OUc/1114tranceeuphoriaricharddurand",
         "tags": [
           "下週末"
@@ -3221,7 +3305,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · 台北市大佳河濱公園八號水門 蛋型廣場 (8天後)",
+        "summary": "台北 · 台北市大佳河濱公園八號水門 蛋型廣場 (7天後)",
         "source_url": "https://wekengo.tw/event/c9v4ua/2026superace-hei-ma-ban-cheng-ma-la-song-hei-ma-ma-shi-ji",
         "tags": [
           "下週末"
@@ -3251,7 +3335,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市中山堂光復廳 (8天後)",
+        "summary": "台北 · 臺北市中山堂光復廳 (7天後)",
         "source_url": "https://wekengo.tw/event/Lem2pH/2026-tai-wan-guo-ji-chong-chang-yi-shu-jie-tai-wan-bei-xian",
         "tags": [
           "下週末"
@@ -3281,7 +3365,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 樹林藝文中心演藝廳 (8天後)",
+        "summary": "新北 · 樹林藝文中心演藝廳 (7天後)",
         "source_url": "https://wekengo.tw/event/equw6l/zou-xi-ren-ku-li-niao-gao-za-le",
         "tags": [
           "下週末"
@@ -3311,7 +3395,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品雙和比漾店 (8天後)",
+        "summary": "新北 · 誠品雙和比漾店 (7天後)",
         "source_url": "https://wekengo.tw/event/oYm8lr/xin-bei-shuang-he-bi-yang-shu-dian-ren-zhe-chu-mei-yi-qi-jia",
         "tags": [
           "下週末"
@@ -3341,12 +3425,43 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品生活林口三井店 (8天後)",
+        "summary": "新北 · 誠品生活林口三井店 (7天後)",
         "source_url": "https://wekengo.tw/event/qJMY31/xin-bei-lin-kou-san-jing-shu-dian-xiao-guo-jie-jie-shuo-mo-f",
         "tags": [
           "下週末"
         ],
         "image_url": "https://meet.eslite.com/Content/Images/ArtShow/CT_PLAN_20261019135418.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa69245a0519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.527567,
+          24.968757
+        ]
+      },
+      "properties": {
+        "title": "2026溪洲路開唱",
+        "category": "市集",
+        "categories": [
+          "市集",
+          "戶外"
+        ],
+        "venue_name": "新店溪洲阿美族生活文化園區",
+        "period": {
+          "start": "2026-11-14",
+          "end": "2026-11-14"
+        },
+        "business_hours": "",
+        "summary": "新北 · 新店溪洲阿美族生活文化園區 (7天後)",
+        "source_url": "https://wekengo.tw/event/HTDuVt/2026-xi-zhou-lu-kai-chang",
+        "tags": [
+          "下週末"
+        ],
+        "image_url": "https://newtaipei.travel/content/images/articles/73826/articles-image-3yn637ezu0cx02ejn5fgtg.jpg"
       }
     },
     {
@@ -3372,7 +3487,7 @@
           "end": "2026-12-27"
         },
         "business_hours": "17:30-23:00",
-        "summary": "新北 · 新北市 板橋區 新北市市民廣場新北市 板橋區 萬坪公園新北市 板橋區 板橋車站站前廣場 (7天後)",
+        "summary": "新北 · 新北市 板橋區 新北市市民廣場新北市 板橋區 萬坪公園新北市 板橋區 板橋車站站前廣場 (6天後)",
         "source_url": "https://www.tad.gov.tw/m1.aspx?sNo=0001019&lid=081713",
         "tags": [
           "下週末",
@@ -3403,7 +3518,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "新北 · 永和民權分館 (7天後)",
+        "summary": "新北 · 永和民權分館 (6天後)",
         "source_url": "https://wekengo.tw/event/vuNumz/yong-he-min-quan-fen-guan-han-chao-chuang-yi-yue-xi-lie-huo",
         "tags": [
           "下週末"
@@ -3433,7 +3548,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 中4A館 紅酒作業場 (7天後)",
+        "summary": "台北 · 華山1914文化創意產業園區 中4A館 紅酒作業場 (6天後)",
         "source_url": "https://wekengo.tw/event/qa2q31/2026-hua-tian-niao-shi-gotaipei",
         "tags": [
           "下週末"
@@ -3464,7 +3579,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市五股賀聖宮 (7天後)",
+        "summary": "新北 · 新北市五股賀聖宮 (6天後)",
         "source_url": "https://wekengo.tw/event/p6K7kl/2026-xin-bei-shi-xuan-tian-shang-di-wen-hua-ji",
         "tags": [
           "下週末"
@@ -3494,7 +3609,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 功學社音樂廳 (7天後)",
+        "summary": "新北 · 功學社音樂廳 (6天後)",
         "source_url": "https://wekengo.tw/event/Ab2Ss1/mi-te-dong-wu-le-yuan-sa-ke-li-xian-ji-sen-lin-dong-wu-pai-d",
         "tags": [
           "下週末"
@@ -3583,12 +3698,42 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (3天後)",
+        "summary": "台北 · 無印良品美麗華門市 (2天後)",
         "source_url": "https://wekengo.tw/event/n4Ncqf/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio1191115-w",
         "tags": [
           "下週末"
         ],
         "image_url": "https://assets.kktix.io/upload_images/591797/d6f3a06275161747_medium.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "821c8522c3b0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.560905,
+          25.044086
+        ]
+      },
+      "properties": {
+        "title": "小小永續行動家｜鳳梨纖維工作坊",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "松山文創園區",
+        "period": {
+          "start": "2026-11-08",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · 松山文創園區 (明天)",
+        "source_url": "https://wekengo.tw/event/AZvSs1/xiao-xiao-yong-xu-xing-dong-jia-feng-li-xian-wei-gong-zuo-fa",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2610220403252138798241_P520x260.jpg"
       }
     },
     {
@@ -3613,7 +3758,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 北投中心新村 (2天後)",
+        "summary": "台北 · 北投中心新村 (明天)",
         "source_url": "https://wekengo.tw/event/YLMaET/xin-tan-miao-juan-cun-xiang-nong-zhuo-mi-cang-gai-ban-huo-do",
         "tags": [
           "本週末"
@@ -3643,7 +3788,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 新富町文化市場 (2天後)",
+        "summary": "台北 · 新富町文化市場 (明天)",
         "source_url": "https://wekengo.tw/event/F87oGX/xin-fu-shi-zhou-nian-zhan-yi-shu-jia-gong-zuo-fang-jiao-mai",
         "tags": [
           "本週末"
@@ -3673,7 +3818,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品生活松菸 (2天後)",
+        "summary": "台北 · 誠品生活松菸 (明天)",
         "source_url": "https://wekengo.tw/event/sZQO8j/tai-bei-song-yan-er-tong-guan-bao-ke-meng-ti-yan-huo-dong",
         "tags": [
           "本週末"
@@ -3703,7 +3848,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 花博公園圓山園區 (2天後)",
+        "summary": "台北 · 花博公園圓山園區 (明天)",
         "source_url": "https://wekengo.tw/event/L6OmpH/zou-du-huo-dong-yuan-shan-jie-qu-de-wen-hua-di-li-xue",
         "tags": [
           "本週末"
@@ -3713,62 +3858,32 @@
     },
     {
       "type": "Feature",
-      "id": "734ddbad5b1d",
+      "id": "7c3e68ed8c78",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.561351,
-          25.044561
+          121.560905,
+          25.044086
         ]
       },
       "properties": {
-        "title": "2026誠品松菸運動展｜FLIP RUN路跑活動",
+        "title": "松菸與鐵博的龐克｜廖建忠帶路",
         "category": "戶外",
         "categories": [
           "戶外"
         ],
-        "venue_name": "誠品生活松菸",
+        "venue_name": "松山文創園區",
         "period": {
           "start": "2026-11-08",
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品生活松菸 (2天後)",
-        "source_url": "https://wekengo.tw/event/g0orHJ/2026-cheng-pin-song-yan-yun-dong-zhan-fliprun-lu-pao-huo-don",
+        "summary": "台北 · 松山文創園區 (明天)",
+        "source_url": "https://wekengo.tw/event/Rqo2eN/song-yan-yu-tie-bo-de-pang-ke-yi-shu-jia-liao-jian-zhong-dai",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://static.accupass.com/eventbanner/2609290929101204086978_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "21dd918337de",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.42443,
-          24.991397
-        ]
-      },
-      "properties": {
-        "title": "【11/08】樹鶯縱走15公里",
-        "category": "戶外",
-        "categories": [
-          "戶外"
-        ],
-        "venue_name": "樹林車站",
-        "period": {
-          "start": "2026-11-08",
-          "end": "2026-11-08"
-        },
-        "business_hours": "",
-        "summary": "台北 · 樹林車站 (2天後)",
-        "source_url": "https://wekengo.tw/event/alGTtN/shu-ying-zong-zou-15-gong-li-huan-tai-bei-tian-ji-xian-jin-j",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2510171103341865988611_P520x260.jpg"
+        "image_url": "https://static.accupass.com/eventbanner/2610220403035057020900_P520x260.jpg"
       }
     },
     {
@@ -3793,7 +3908,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運北投站1號出口 (2天後)",
+        "summary": "台北 · 捷運北投站1號出口 (明天)",
         "source_url": "https://wekengo.tw/event/vu9Umz/in-bei-tou-wen-shi-zao-ka-1108",
         "tags": [
           "本週末"
@@ -3823,12 +3938,42 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市孔廟 (2天後)",
+        "summary": "台北 · 臺北市孔廟 (明天)",
         "source_url": "https://wekengo.tw/event/GRM7Uc/cheng-shi-gu-shi-xing-lv-da-long-dong-xiao-lv-xing-kong-miao",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2609080146581396828574_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "734ddbad5b1d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561351,
+          25.044561
+        ]
+      },
+      "properties": {
+        "title": "2026誠品松菸運動展｜FLIP RUN路跑活動",
+        "category": "戶外",
+        "categories": [
+          "戶外"
+        ],
+        "venue_name": "誠品生活松菸",
+        "period": {
+          "start": "2026-11-08",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · 誠品生活松菸 (明天)",
+        "source_url": "https://wekengo.tw/event/g0orHJ/2026-cheng-pin-song-yan-yun-dong-zhan-fliprun-lu-pao-huo-don",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2609290929101204086978_P520x260.jpg"
       }
     },
     {
@@ -3853,12 +3998,72 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運六張犁站 (2天後)",
+        "summary": "台北 · 捷運六張犁站 (明天)",
         "source_url": "https://wekengo.tw/event/m2Fbx3/lai-zi-bu-tong-shi-kong-de-sheng-xiang-liu-zhang-li-ji-le-go",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2609181102471386030265_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21dd918337de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42443,
+          24.991397
+        ]
+      },
+      "properties": {
+        "title": "【11/08】樹鶯縱走15公里",
+        "category": "戶外",
+        "categories": [
+          "戶外"
+        ],
+        "venue_name": "樹林車站",
+        "period": {
+          "start": "2026-11-08",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · 樹林車站 (明天)",
+        "source_url": "https://wekengo.tw/event/alGTtN/shu-ying-zong-zou-15-gong-li-huan-tai-bei-tian-ji-xian-jin-j",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2510171103341865988611_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18f3e592dbd8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532385,
+          25.010647
+        ]
+      },
+      "properties": {
+        "title": "順流遺落之聲",
+        "category": "戶外",
+        "categories": [
+          "戶外"
+        ],
+        "venue_name": "寶藏巖國際藝術村",
+        "period": {
+          "start": "2026-11-08",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · 寶藏巖國際藝術村 (明天)",
+        "source_url": "https://wekengo.tw/event/PwX7NM/2026-di-san-ji-zhu-cun-yi-shu-jia-lian-zhan-yan-chu-performa",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2610120715465768239000_P520x260.jpg"
       }
     },
     {
@@ -3883,7 +4088,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · HME 百岳戶外裝備 (2天後)",
+        "summary": "台北 · HME 百岳戶外裝備 (明天)",
         "source_url": "https://wekengo.tw/event/Pw8nNM/zhang-liang-tan-suo-yu-shan-liu-bai",
         "tags": [
           "本週末"
@@ -3913,12 +4118,42 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 板橋435藝文特區 (2天後)",
+        "summary": "新北 · 板橋435藝文特區 (明天)",
         "source_url": "https://wekengo.tw/event/IcQcvB/2026-nian-435-yi-shu-ju-luo-open435-kai-fang-gong-zuo-shi-11",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2610220234193424907740_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ade9ede15ecb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.452112,
+          25.025029
+        ]
+      },
+      "properties": {
+        "title": "11/8 OPEN 435開放工作室藝術體驗",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "板橋435藝文特區",
+        "period": {
+          "start": "2026-11-08",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "新北 · 板橋435藝文特區 (明天)",
+        "source_url": "https://wekengo.tw/event/3th8Wp/2026-nian-435-yi-shu-ju-luo-open435-kai-fang-gong-zuo-shi-11",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2610220234412111944959_P520x260.jpg"
       }
     },
     {
@@ -3943,7 +4178,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品雙和比漾店 (2天後)",
+        "summary": "新北 · 誠品雙和比漾店 (明天)",
         "source_url": "https://wekengo.tw/event/rDtfCl/xin-bei-shuang-he-bi-yang-shu-dian-bao-ke-meng-ti-yan-huo-do",
         "tags": [
           "本週末"
@@ -3973,7 +4208,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 誠品書店 新店店 (2天後)",
+        "summary": "新北 · 誠品書店 新店店 (明天)",
         "source_url": "https://wekengo.tw/event/4mcZOl/yuan-liu-jie-jie-shuo-gu-shi-xiao-lun-dun-de-qi-huan-zhi-lv",
         "tags": [
           "本週末"
@@ -4003,7 +4238,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "台北 · Acta Academy (明天)",
+        "summary": "台北 · Acta Academy (今天)",
         "source_url": "https://wekengo.tw/event/kgknKT/ceng-tian-jia-yi-yang-bu-yi-yang-cha-hua-ge-zhan-tiatsengsam",
         "tags": [
           "本週末"
@@ -4033,7 +4268,7 @@
           "end": "2026-12-19"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 (明天)",
+        "summary": "台北 · 臺北表演藝術中心 (今天)",
         "source_url": "https://wekengo.tw/event/63jxgx/2026-bei-yi-san-bu-shi-lin-jie-qu-dao-lan",
         "tags": [
           "本週末"
@@ -4063,7 +4298,7 @@
           "end": "2026-12-12"
         },
         "business_hours": "",
-        "summary": "台北 · 文山劇場 (明天)",
+        "summary": "台北 · 文山劇場 (今天)",
         "source_url": "https://wekengo.tw/event/YUIYET/wen-shan-ju-chang-2026-nian-qin-zi-wan-yi-huo-dong-xi-lie",
         "tags": [
           "本週末"
@@ -4093,7 +4328,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "台北 · 國立臺灣科學教育館 (明天)",
+        "summary": "台北 · 國立臺灣科學教育館 (今天)",
         "source_url": "https://wekengo.tw/event/YUYKET/202627th-tai-da-jia-ri-er-tong-bo-wu-guan",
         "tags": [
           "本週末"
@@ -4123,7 +4358,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "新北 · 淡水分館5樓研習教室 (明天)",
+        "summary": "新北 · 淡水分館5樓研習教室 (今天)",
         "source_url": "https://wekengo.tw/event/CPmESr/dan-shui-fen-guan-da-kai-hui-ben-de-mi-mi-xin-shi-jie-hui-be",
         "tags": [
           "本週末"
@@ -4182,7 +4417,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市兒童新樂園兒童劇場 (明天)",
+        "summary": "台北 · 臺北市兒童新樂園兒童劇場 (今天)",
         "source_url": "https://wekengo.tw/event/sXvk8j/2026-nian-qiao-hu-ying-yu-wu-tai-ju-findingrainbowisland-xun",
         "tags": [
           "本週末"
@@ -4212,7 +4447,7 @@
           "end": "2026-11-22"
         },
         "business_hours": "",
-        "summary": "台北 · 1980室內樂集 (明天)",
+        "summary": "台北 · 1980室內樂集 (今天)",
         "source_url": "https://wekengo.tw/event/8Mh3R0/xiao-xiao-yin-le-da-shi-ke-hai-zi-men-de-qiu-ji-jiao-xiang-l",
         "tags": [
           "本週末"
@@ -4242,7 +4477,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "台北 · 國家兩廳院表演藝術圖書館 (明天)",
+        "summary": "台北 · 國家兩廳院表演藝術圖書館 (今天)",
         "source_url": "https://wekengo.tw/event/Pj3yNM/kan-bu-jian-qin-zi-hui-ben-shuo-gu-shi",
         "tags": [
           "本週末"
@@ -4274,7 +4509,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市 士林區 國立臺灣科學教育館基隆市 中正區 國立海洋科技博物館臺中市 北區 國立自然科學博物館高雄市 三民區 國立科學工藝博物館屏東縣 車城鄉 國立海洋生物博物館 (明天)",
+        "summary": "台北 · 臺北市 士林區 國立臺灣科學教育館基隆市 中正區 國立海洋科技博物館臺中市 北區 國立自然科學博物館高雄市 三民區 國立科學工藝博物館屏東縣 車城鄉 國立海洋生物博物館 (今天)",
         "source_url": "https://wekengo.tw/event/oZwlrK/2026-tai-wan-ke-xue-jie",
         "tags": [
           "本週末"
@@ -4304,7 +4539,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 中和區民享藝文特區 (明天)",
+        "summary": "新北 · 中和區民享藝文特區 (今天)",
         "source_url": "https://wekengo.tw/event/eqV36l/zhong-he-yuan-shan-fen-guan-homelibrary-xi-lie-huo-dong-tong",
         "tags": [
           "本週末"
@@ -4334,7 +4569,7 @@
           "end": "2026-11-14"
         },
         "business_hours": "",
-        "summary": "新北 · 汐止大同分館 (明天)",
+        "summary": "新北 · 汐止大同分館 (今天)",
         "source_url": "https://wekengo.tw/event/uFEu2Y/xi-zhi-da-tong-fen-guan-yuan-xi-xin-sheng-huo-tai-yu-zou-du",
         "tags": [
           "本週末"
@@ -4402,6 +4637,36 @@
     },
     {
       "type": "Feature",
+      "id": "45ce1b1291f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5292,
+          25.0446
+        ]
+      },
+      "properties": {
+        "title": "2026好友港節市集",
+        "category": "food",
+        "categories": [
+          "food"
+        ],
+        "venue_name": "華山1914文化創意產業園區",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "「2026好友港節市集」於華山1914文化創意產業園區熱鬧登場。活動大使啦啦隊偶像冼迪琦驚喜獻唱開場，香港歌手謝雅兒與具感染力嗓音的人氣創作者草爺接力開唱，Beyond前成員劉志遠更壓軸登台重現經典旋律。現場集結70組港澳美食與文創攤位、花式足球表演及限定拍照打卡區，展現跨越地域的文化魅力。",
+        "source_url": "https://strolltimes.com/events/taipei/261106073609/",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://strolltimes.com/events/taipei/261106073609.webp"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "50ef68b4d33d",
       "geometry": {
         "type": "Point",
@@ -4424,7 +4689,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 內湖大全聯1F停車廣場 (明天)",
+        "summary": "台北 · 內湖大全聯1F停車廣場 (今天)",
         "source_url": "https://wekengo.tw/event/eqLs6l/nei-hu-da-quan-lian-chong-wu-wen-chuang-liu-xing-shi-ji",
         "tags": [
           "本週末"
@@ -4454,12 +4719,42 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 台北偶戲館黑箱劇場 (明天)",
+        "summary": "台北 · 台北偶戲館黑箱劇場 (今天)",
         "source_url": "https://wekengo.tw/event/VTjYXm/shan-wan-ran-ju-tuan-er-tong-bu-dai-xi-yao-po-zai-na-li",
         "tags": [
           "本週末"
         ],
         "image_url": "https://s3.resource.opentix.life/upload/program/1785220068469U6aoTQ6Wpw.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90afd45204bb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529404,
+          25.044147
+        ]
+      },
+      "properties": {
+        "title": "我的e生活 第13屆小王子愛塗鴉繪畫比賽展覽",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "華山1914文化創意產業園區 中4A館 紅酒作業場",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · 華山1914文化創意產業園區 中4A館 紅酒作業場 (今天)",
+        "source_url": "https://wekengo.tw/event/RqCDeN/wo-de-e-sheng-huo-di-13-jie-xiao-wang-zi-ai-tu-ya-hui-hua-bi",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://files.huashan1914.com/華山官網宣傳圖.png"
       }
     },
     {
@@ -4485,7 +4780,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 台北偶戲館 (明天)",
+        "summary": "台北 · 台北偶戲館 (今天)",
         "source_url": "https://wekengo.tw/event/AZCys1/pai-dui-dai-hao-pi-na-ta-partycodepiata",
         "tags": [
           "本週末"
@@ -4495,32 +4790,32 @@
     },
     {
       "type": "Feature",
-      "id": "90afd45204bb",
+      "id": "33bdcd39f7f1",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.529404,
-          25.044147
+          121.526446,
+          25.045578
         ]
       },
       "properties": {
-        "title": "我的e生活 第13屆小王子愛塗鴉繪畫比賽展覽",
+        "title": "小小音樂大師課：低音提琴×傑克與豌豆",
         "category": "親子",
         "categories": [
           "親子"
         ],
-        "venue_name": "華山1914文化創意產業園區 中4A館 紅酒作業場",
+        "venue_name": "1980室內樂集",
         "period": {
           "start": "2026-11-07",
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 中4A館 紅酒作業場 (明天)",
-        "source_url": "https://wekengo.tw/event/RqCDeN/wo-de-e-sheng-huo-di-13-jie-xiao-wang-zi-ai-tu-ya-hui-hua-bi",
+        "summary": "台北 · 1980室內樂集 (今天)",
+        "source_url": "https://wekengo.tw/event/MO2Rny/xiao-xiao-yin-le-da-shi-ke-di-yin-ti-qin-jie-ke-yu-wan-dou-t",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://files.huashan1914.com/華山官網宣傳圖.png"
+        "image_url": "https://static.accupass.com/eventbanner/2607190701001983595607_P520x260.jpg"
       }
     },
     {
@@ -4545,7 +4840,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 三創生活園區12F SYNTREND SHOW 多元廳 (明天)",
+        "summary": "台北 · 三創生活園區12F SYNTREND SHOW 多元廳 (今天)",
         "source_url": "https://wekengo.tw/event/4mJUOl/di-4-hui-top-nv-shen-tai-bei-gan-xie-ji-fen-si-hu-dong-ka-yu",
         "tags": [
           "本週末"
@@ -4575,12 +4870,42 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · BAR 24 Taipei (明天)",
+        "summary": "台北 · BAR 24 Taipei (今天)",
         "source_url": "https://wekengo.tw/event/oYAIlr/taipeiafterdarktodawn",
         "tags": [
           "本週末"
         ],
         "image_url": "https://assets.kktix.io/upload_images/596151/a6ffdc57959959de_medium.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62d9634b3d62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528076,
+          25.043388
+        ]
+      },
+      "properties": {
+        "title": "愛無限｜2026 THE8 Birthday Cafe",
+        "category": "派對",
+        "categories": [
+          "派對"
+        ],
+        "venue_name": "Dimple Café 酒窩咖啡館",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-08"
+        },
+        "business_hours": "",
+        "summary": "台北 · Dimple Café 酒窩咖啡館 (今天)",
+        "source_url": "https://wekengo.tw/event/DjVtPs/ai-wu-xian-2026the8birthdaycafe",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2608140112451705081786_P520x260.jpg"
       }
     },
     {
@@ -4605,7 +4930,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 台北花博公園爭艷館 (明天)",
+        "summary": "台北 · 台北花博公園爭艷館 (今天)",
         "source_url": "https://wekengo.tw/event/lEDaiG/ya-zhou-dong-man-chuang-zuo-zhan-petitfancy",
         "tags": [
           "本週末"
@@ -4636,7 +4961,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 大稻埕 (明天)",
+        "summary": "台北 · 大稻埕 (今天)",
         "source_url": "https://wekengo.tw/event/RnUReN/11-yue-da-dao-cheng-hai-mu-shi-ji",
         "tags": [
           "本週末"
@@ -4667,7 +4992,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 南昌路二段｢福州街至和平西路一段｣（古亭站8號出口步行約5分鐘） (明天)",
+        "summary": "台北 · 南昌路二段｢福州街至和平西路一段｣（古亭站8號出口步行約5分鐘） (今天)",
         "source_url": "https://wekengo.tw/event/oYtplr/pan-duo-la-nan-chang-jia-ju-jie-jie-nan-chang-hao-sheng-yi-f",
         "tags": [
           "本週末"
@@ -4697,7 +5022,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 新光三越信義新天地A9春水堂廣場 (明天)",
+        "summary": "台北 · 新光三越信義新天地A9春水堂廣場 (今天)",
         "source_url": "https://wekengo.tw/event/GkxjUc/2026-fa-ya-ke-di-22-jie-cheng-shi-24-xiao-shi-she-ying-ma-la",
         "tags": [
           "本週末"
@@ -4727,7 +5052,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市藝文中心演藝廳 (明天)",
+        "summary": "新北 · 新北市藝文中心演藝廳 (今天)",
         "source_url": "https://wekengo.tw/event/LeSzpH/yin-he-gu-yin-ju-tuan-pi-pi-zhen-tan-nan-fang-dao-yu-de-shen",
         "tags": [
           "本週末"
@@ -4758,7 +5083,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 日月光商城1F廣場 (明天)",
+        "summary": "新北 · 日月光商城1F廣場 (今天)",
         "source_url": "https://wekengo.tw/event/Abfws1/202611-yue-yue-guang-dong-ri-you-at-ri-yue-guang-guang-chang",
         "tags": [
           "本週末"
@@ -4789,72 +5114,12 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 光在錦町 (明天)",
+        "summary": "台北 · 光在錦町 (今天)",
         "source_url": "https://wekengo.tw/event/KV0Q5Q/jin-ting-qiu-ye-wu-sheng-dian-ying-yuan",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2610220617481079507749_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "b00e9d7aff26",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.529404,
-          25.044147
-        ]
-      },
-      "properties": {
-        "title": "2026小黃帽交通安全童樂會",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "華山1914文化創意產業園區 西5-1館 壓縮兼包裝工場 / 西2館 第三乾餾場 / 西1館 第二乾餾場",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-07"
-        },
-        "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 西5-1館 壓縮兼包裝工場 / 西2館 第三乾餾場 / 西1館 第二乾餾場 (明天)",
-        "source_url": "https://wekengo.tw/event/X7MBbb/2026-xiao-huang-mao-jiao-tong-an-quan-tong-le-hui-cheng-wei",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://files.huashan1914.com/華山需求_工作區域 1.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "2517a5ebce80",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.538375,
-          25.039667
-        ]
-      },
-      "properties": {
-        "title": "文化前線IV：母湯 Mother-ing Soup｜「成為母親」放映＋藝術家座談",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "空總國家文化基地",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-07"
-        },
-        "business_hours": "",
-        "summary": "台北 · 空總國家文化基地 (明天)",
-        "source_url": "https://wekengo.tw/event/UeV5LW/wen-hua-qian-xian-iv-mu-tang-motheringsoup-cheng-wei-qin-fan",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2610070822081265882498_P520x260.jpg"
       }
     },
     {
@@ -4880,7 +5145,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 南港瓶蓋工廠 (明天)",
+        "summary": "台北 · 南港瓶蓋工廠 (今天)",
         "source_url": "https://wekengo.tw/event/tiznyJ/yo-meng-bao-bei-qin-zi-shi-ji",
         "tags": [
           "本週末"
@@ -4911,12 +5176,72 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 大安森林公園露天音樂台 (明天)",
+        "summary": "台北 · 大安森林公園露天音樂台 (今天)",
         "source_url": "https://wekengo.tw/event/AZ10s1/2026-da-an-sen-lin-gong-yuan-sheng-tai-bo-lan-hui-sheng-tai",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2609141004393819294500_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b00e9d7aff26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529404,
+          25.044147
+        ]
+      },
+      "properties": {
+        "title": "2026小黃帽交通安全童樂會",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "華山1914文化創意產業園區 西5-1館 壓縮兼包裝工場 / 西2館 第三乾餾場 / 西1館 第二乾餾場",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-07"
+        },
+        "business_hours": "",
+        "summary": "台北 · 華山1914文化創意產業園區 西5-1館 壓縮兼包裝工場 / 西2館 第三乾餾場 / 西1館 第二乾餾場 (今天)",
+        "source_url": "https://wekengo.tw/event/X7MBbb/2026-xiao-huang-mao-jiao-tong-an-quan-tong-le-hui-cheng-wei",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://files.huashan1914.com/華山需求_工作區域 1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2517a5ebce80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.538375,
+          25.039667
+        ]
+      },
+      "properties": {
+        "title": "文化前線IV：母湯 Mother-ing Soup｜「成為母親」放映＋藝術家座談",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "空總國家文化基地",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-07"
+        },
+        "business_hours": "",
+        "summary": "台北 · 空總國家文化基地 (今天)",
+        "source_url": "https://wekengo.tw/event/UeV5LW/wen-hua-qian-xian-iv-mu-tang-motheringsoup-cheng-wei-qin-fan",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2610070822081265882498_P520x260.jpg"
       }
     },
     {
@@ -4941,12 +5266,72 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 三創生活園區 (明天)",
+        "summary": "台北 · 三創生活園區 (今天)",
         "source_url": "https://wekengo.tw/event/al2VtN/2026-wu-xian-ying-zhan-1107-liu-er-tong-dong-hua-duan-pian-h",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2609301910422735756600_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a751bc70623d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.595284,
+          24.968497
+        ]
+      },
+      "properties": {
+        "title": "一起做紙雕—貓空山林紙雕工作坊",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "臺北市鐵觀音包種茶研發推廣中心",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-07"
+        },
+        "business_hours": "",
+        "summary": "台北 · 臺北市鐵觀音包種茶研發推廣中心 (今天)",
+        "source_url": "https://wekengo.tw/event/kgnfKT/yi-qi-zuo-zhi-diao-mao-kong-shan-lin-zhi-diao-gong-zuo-fang",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://static.accupass.com/eventbanner/2608210945112138982594_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51d866f1a860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.617582,
+          25.059345
+        ]
+      },
+      "properties": {
+        "title": "精油永生花束手作體驗",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "無印良品LaLaport南港門市",
+        "period": {
+          "start": "2026-11-07",
+          "end": "2026-11-07"
+        },
+        "business_hours": "",
+        "summary": "台北 · 無印良品LaLaport南港門市 (今天)",
+        "source_url": "https://wekengo.tw/event/6qUzgx/openmuji-jing-you-yong-sheng-hua-shu-wu-yin-liang-pin-lalapo",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://assets.kktix.io/upload_images/592555/9636bd194b732764_medium.jpeg"
       }
     },
     {
@@ -4972,72 +5357,12 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 大安森林公園 (明天)",
+        "summary": "台北 · 大安森林公園 (今天)",
         "source_url": "https://wekengo.tw/event/9sXbFq/2026-da-an-sen-lin-gong-yuan-sheng-tai-bo-lan-hui-sheng-tai",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2609210957061892211400_P520x260.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "51d866f1a860",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.617582,
-          25.059345
-        ]
-      },
-      "properties": {
-        "title": "精油永生花束手作體驗",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "無印良品LaLaport南港門市",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-07"
-        },
-        "business_hours": "",
-        "summary": "台北 · 無印良品LaLaport南港門市 (明天)",
-        "source_url": "https://wekengo.tw/event/6qUzgx/openmuji-jing-you-yong-sheng-hua-shu-wu-yin-liang-pin-lalapo",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://assets.kktix.io/upload_images/592555/9636bd194b732764_medium.jpeg"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "a751bc70623d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.595284,
-          24.968497
-        ]
-      },
-      "properties": {
-        "title": "一起做紙雕—貓空山林紙雕工作坊",
-        "category": "親子",
-        "categories": [
-          "親子"
-        ],
-        "venue_name": "臺北市鐵觀音包種茶研發推廣中心",
-        "period": {
-          "start": "2026-11-07",
-          "end": "2026-11-07"
-        },
-        "business_hours": "",
-        "summary": "台北 · 臺北市鐵觀音包種茶研發推廣中心 (明天)",
-        "source_url": "https://wekengo.tw/event/kgnfKT/yi-qi-zuo-zhi-diao-mao-kong-shan-lin-zhi-diao-gong-zuo-fang",
-        "tags": [
-          "本週末"
-        ],
-        "image_url": "https://static.accupass.com/eventbanner/2608210945112138982594_P520x260.jpg"
       }
     },
     {
@@ -5062,7 +5387,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · Legacy Taipei (明天)",
+        "summary": "台北 · Legacy Taipei (今天)",
         "source_url": "https://wekengo.tw/event/5V5nQZ/shi-shang-zui-nong-tai-wei-jin-qu-zhi-ye",
         "tags": [
           "本週末"
@@ -5092,7 +5417,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · La Fin Taipei (明天)",
+        "summary": "台北 · La Fin Taipei (今天)",
         "source_url": "https://wekengo.tw/event/kH5qKT/1107templetaipeipresentsaksports",
         "tags": [
           "本週末"
@@ -5122,7 +5447,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 花博公園圓山園區 (明天)",
+        "summary": "台北 · 花博公園圓山園區 (今天)",
         "source_url": "https://wekengo.tw/event/JoPbaE/zou-du-huo-dong-yuan-shan-li-shi-shi-kong-mo-huan-man-bu",
         "tags": [
           "本週末"
@@ -5152,7 +5477,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 國家鐵道博物館 北二門服務中心前集合 (明天)",
+        "summary": "台北 · 國家鐵道博物館 北二門服務中心前集合 (今天)",
         "source_url": "https://wekengo.tw/event/H03dVt/tie-bo-qiu-ri-ji-gu-ji-zhuan-ti-dao-lan",
         "tags": [
           "本週末"
@@ -5182,7 +5507,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運北門 (明天)",
+        "summary": "台北 · 捷運北門 (今天)",
         "source_url": "https://wekengo.tw/event/KVMF5Q/in-da-dao-cheng-fang-cha-zhi-lv-1107",
         "tags": [
           "本週末"
@@ -5212,7 +5537,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運龍山寺站旅遊服務中心 (明天)",
+        "summary": "台北 · 捷運龍山寺站旅遊服務中心 (今天)",
         "source_url": "https://wekengo.tw/event/4ml6Ol/cheng-shi-gu-shi-xing-lv-meng-xia-xiao-lv-xing-bai-nian-xin",
         "tags": [
           "本週末"
@@ -5242,7 +5567,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運公館站 (明天)",
+        "summary": "台北 · 捷運公館站 (今天)",
         "source_url": "https://wekengo.tw/event/V1OTXm/cheng-nan-liu-sheng-bu-yi-yi-zhi-yu-xiao-shi-de-shi-dai-si-y",
         "tags": [
           "本週末"
@@ -5272,7 +5597,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 寶藏巖國際藝術村 (明天)",
+        "summary": "台北 · 寶藏巖國際藝術村 (今天)",
         "source_url": "https://wekengo.tw/event/UeM8LW/2026-di-san-ji-zhu-cun-yi-shu-jia-lian-zhan-yan-chu-performa",
         "tags": [
           "本週末"
@@ -5302,7 +5627,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 捷運六張犁站 (明天)",
+        "summary": "台北 · 捷運六張犁站 (今天)",
         "source_url": "https://wekengo.tw/event/lh9DiG/lai-zi-bu-tong-shi-kong-de-sheng-xiang-liu-zhang-li-ji-le-go",
         "tags": [
           "本週末"
@@ -5332,7 +5657,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 三創生活園區 (明天)",
+        "summary": "台北 · 三創生活園區 (今天)",
         "source_url": "https://wekengo.tw/event/nJrrqf/2026-wu-xian-ying-zhan-1107-liu-sheng-zhi-xing",
         "tags": [
           "本週末"
@@ -5362,7 +5687,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 功學社音樂廳 (明天)",
+        "summary": "新北 · 功學社音樂廳 (今天)",
         "source_url": "https://wekengo.tw/event/DBqmPs/mi-te-dong-wu-le-yuan-biao-yan-ting-de-mi-mi",
         "tags": [
           "本週末"
@@ -5392,7 +5717,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 石碇分館 (明天)",
+        "summary": "新北 · 石碇分館 (今天)",
         "source_url": "https://wekengo.tw/event/PjuUNM/shi-ding-fen-guan-huan-ge-jiao-shi-dang-yi-tian-kuai-le-de-c",
         "tags": [
           "本週末"
@@ -5422,7 +5747,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 五股守讓堂 (明天)",
+        "summary": "新北 · 五股守讓堂 (今天)",
         "source_url": "https://wekengo.tw/event/5VLXQZ/wu-gu-shou-rang-tang-11-yue-7-ri-10001100-qin-zi-yue-du-qu-h",
         "tags": [
           "本週末"
@@ -5453,7 +5778,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市客家文化園區 (明天)",
+        "summary": "新北 · 新北市客家文化園區 (今天)",
         "source_url": "https://wekengo.tw/event/pgqnkl/2026-xin-bei-shi-ke-jia-wen-hua-yuan-qu-shi-ji-ri-qiu-zi-shi",
         "tags": [
           "本週末"
@@ -5484,7 +5809,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 公司田溪程氏古厝 (明天)",
+        "summary": "新北 · 公司田溪程氏古厝 (今天)",
         "source_url": "https://wekengo.tw/event/qamR31/117-gong-si-tian-xi-shou-zuo-shi-ji-ti-yan-huo-dong-zui-hou",
         "tags": [
           "本週末"
@@ -5515,7 +5840,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 十三行文化公園 (明天)",
+        "summary": "新北 · 十三行文化公園 (今天)",
         "source_url": "https://wekengo.tw/event/yDuSr3/ba-li-wa-zi-wei-qin-zi-yi-ri-you-117-liu-wa-zi-wei-bao-cang",
         "tags": [
           "本週末"
@@ -5547,7 +5872,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 酉鬼啤酒五股酒廠 (明天)",
+        "summary": "新北 · 酉鬼啤酒五股酒廠 (今天)",
         "source_url": "https://wekengo.tw/event/QX0EA4/you-gui-pi-jiu-2026-chou-pai-dui-7thanniversaryparty",
         "tags": [
           "本週末"
@@ -5577,7 +5902,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 青山瀑布步道登山口 (明天)",
+        "summary": "新北 · 青山瀑布步道登山口 (今天)",
         "source_url": "https://wekengo.tw/event/p6nlkl/shan-lin-zhan-yan-yi-ti-huo-dong-yi-qing-shan-pu-bu-song-sha",
         "tags": [
           "本週末"
@@ -5607,7 +5932,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 捷運土城站 (明天)",
+        "summary": "新北 · 捷運土城站 (今天)",
         "source_url": "https://wekengo.tw/event/AZ76s1/368-qi-bike-jun-tuan-chu-dong-da-han-xi-zhui-xi-yang-xin-zhu",
         "tags": [
           "本週末"
@@ -5637,7 +5962,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 程氏古厝 (明天)",
+        "summary": "新北 · 程氏古厝 (今天)",
         "source_url": "https://wekengo.tw/event/g0aTHJ/chuan-yue-dan-shui-shi-kong-lv-xing-dao-xiang-ji-de-de-dan-s",
         "tags": [
           "本週末"
@@ -5667,12 +5992,45 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 淡水文化園區—殼牌倉庫 (明天)",
+        "summary": "新北 · 淡水文化園區—殼牌倉庫 (今天)",
         "source_url": "https://wekengo.tw/event/QbnNA4/zou-du-dan-shui-117-wu-hu-gang-bi-tou-lun-tan-suo",
         "tags": [
           "本週末"
         ],
         "image_url": "https://static.accupass.com/eventbanner/2404301010271102840562_P520x260.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e85cdbe716c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51708,
+          25.09624
+        ]
+      },
+      "properties": {
+        "title": "想．玩：好奇球之旅特展",
+        "category": "親子",
+        "categories": [
+          "親子"
+        ],
+        "venue_name": "國立臺灣科學教育館",
+        "period": {
+          "start": "2026-11-06",
+          "end": "2027-11-14"
+        },
+        "business_hours": "",
+        "summary": "台北 · 國立臺灣科學教育館 (進行中・剩372天)",
+        "source_url": "https://wekengo.tw/event/Qbv5A4/xiang-wan-hao-qi-qiu-zhi-lv-te-zhan",
+        "tags": [
+          "本週末",
+          "行憲紀念日連假",
+          "跨年元旦連假",
+          "元旦連假"
+        ],
+        "image_url": "https://www.ntsec.gov.tw/images/ArticleListPic/6182_2.jpg"
       }
     },
     {
@@ -5730,7 +6088,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 藍盒子 (今天)",
+        "summary": "台北 · 臺北表演藝術中心 藍盒子 (進行中・剩8天)",
         "source_url": "https://wekengo.tw/event/5VxUQZ/cmusical-yin-le-ju-xiao-wang-zi",
         "tags": [
           "本週末"
@@ -5760,7 +6118,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 誠品生活松菸 (今天)",
+        "summary": "台北 · 誠品生活松菸 (進行中・剩8天)",
         "source_url": "https://wekengo.tw/event/AZVgs1/2026-yuan-chuang-ji-di-jie-zai-bu-zai-song-yan-24-xiao-shi-s",
         "tags": [
           "本週末"
@@ -5790,7 +6148,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北表演藝術中心 北斗座 (今天)",
+        "summary": "台北 · 臺北表演藝術中心 北斗座 (進行中・剩8天)",
         "source_url": "https://wekengo.tw/event/sZfn8j/jin-zhi-yan-she-dang-dai-ye-tai-fei-zei-ye-lai-xiang",
         "tags": [
           "本週末"
@@ -5880,7 +6238,7 @@
           "end": "2026-11-09"
         },
         "business_hours": "",
-        "summary": "台北 · 台北世貿一館 (今天)",
+        "summary": "台北 · 台北世貿一館 (進行中・剩2天)",
         "source_url": "https://wekengo.tw/event/AZWqs1/2026-tai-bei-guo-ji-wan-zhuan-wen-ju-li-pin-ji-shou-zuo-chua",
         "tags": [
           "本週末"
@@ -5970,7 +6328,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 新美河購物廣場 4F (新店IKEA 4F) (今天)",
+        "summary": "新北 · 新美河購物廣場 4F (新店IKEA 4F) (進行中・明天結束)",
         "source_url": "https://wekengo.tw/event/OmMbJL/cun-she-ji-shi-2026-xin-mei-he-gou-wu-guang-chang-4f",
         "tags": [
           "本週末"
@@ -6000,7 +6358,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 裏山 (今天)",
+        "summary": "台北 · 裏山 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/MOyBny/si-ji-zi-ran-mei-xue-liao-yu-zhi-lv-onedayretreat",
         "tags": [
           "本週末"
@@ -6030,7 +6388,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市 (今天)",
+        "summary": "新北 · 新北市 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/tl3wyJ/zhi-xin-jiao-pei-yi-you-qu",
         "tags": [
           "本週末"
@@ -6118,7 +6476,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市立黃金博物館 (進行中・明天結束)",
+        "summary": "新北 · 新北市立黃金博物館 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/iBfxDf/shan-shan-22-liang-jin-jin-te-se-kun-chong-bao-shi-shou-zuo",
         "tags": [
           "本週末"
@@ -6148,7 +6506,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 植境-蔬食研究所 (進行中・剩23天)",
+        "summary": "台北 · 植境-蔬食研究所 (進行中・剩22天)",
         "source_url": "https://wekengo.tw/event/F8TmGX/dong-shou-zuo-liao-li-feng-shi-shu-shi-liao-li-ke-cheng-gun",
         "tags": [
           "本週末"
@@ -6178,7 +6536,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 無印良品美麗華門市 (進行中・剩2天)",
+        "summary": "台北 · 無印良品美麗華門市 (進行中・明天結束)",
         "source_url": "https://wekengo.tw/event/9Q07Fq/2026-chun-chi-bo-li-gong-fang-springpoolglassstudio111118-wu",
         "tags": [
           "本週末"
@@ -6208,7 +6566,7 @@
           "end": "2027-03-14"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立美術館 (進行中・剩128天)",
+        "summary": "台北 · 臺北市立美術館 (進行中・剩127天)",
         "source_url": "https://wekengo.tw/event/gWIaHJ/sheng-yin-he-ban-ben-long-yi-guan-yin-ting-shi-gong-zhong-ji",
         "tags": [
           "本週末",
@@ -6241,7 +6599,7 @@
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "台北 · 迪化街永樂廣場 (進行中・剩37天)",
+        "summary": "台北 · 迪化街永樂廣場 (進行中・剩36天)",
         "source_url": "https://wekengo.tw/event/Rn63eN/zhong-yao-ben-cao-wen-hua-jie-huo-dong",
         "tags": [
           "本週末"
@@ -6271,7 +6629,7 @@
           "end": "2026-12-05"
         },
         "business_hours": "",
-        "summary": "新北 · 青少年圖書館2樓創新學習中心 (進行中・剩29天)",
+        "summary": "新北 · 青少年圖書館2樓創新學習中心 (進行中・剩28天)",
         "source_url": "https://wekengo.tw/event/rDvpCl/xin-bei-shi-qing-shao-nian-tu-shu-guan-shou-nao-he-zuo-chuan",
         "tags": [
           "本週末"
@@ -6301,7 +6659,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · 國家攝影文化中心臺北館集合 (進行中・剩22天)",
+        "summary": "台北 · 國家攝影文化中心臺北館集合 (進行中・剩21天)",
         "source_url": "https://wekengo.tw/event/eqM16l/zuo-huo-you-cheng-zhong-zou-du-dao-lan-huo-dong",
         "tags": [
           "本週末"
@@ -6331,7 +6689,7 @@
           "end": "2026-11-15"
         },
         "business_hours": "",
-        "summary": "台北 · 美麗華 1F水舞廣場 (進行中・剩9天)",
+        "summary": "台北 · 美麗華 1F水舞廣場 (進行中・剩8天)",
         "source_url": "https://wekengo.tw/event/qJ6D31/xie-gang-zhi-ren-shi-ji-mei-li-hua-hua-xi-xiang-sui-shi-ji",
         "tags": [
           "本週末"
@@ -6361,7 +6719,7 @@
           "end": "2027-01-12"
         },
         "business_hours": "",
-        "summary": "台北 · 華山1914文化創意產業園區 芳釀所 (進行中・剩67天)",
+        "summary": "台北 · 華山1914文化創意產業園區 芳釀所 (進行中・剩66天)",
         "source_url": "https://wekengo.tw/event/pgW3kl/kan-bu-jian-de-ke-du-1030-shen-ke-deng-chang-jie-kai-gong-yi",
         "tags": [
           "本週末",
@@ -6394,7 +6752,7 @@
           "end": "2026-12-27"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市政府三重安芯中心 (進行中・剩51天)",
+        "summary": "新北 · 新北市政府三重安芯中心 (進行中・剩50天)",
         "source_url": "https://wekengo.tw/event/e3MT6l/2026-xin-bei-cheng-shi-zhan",
         "tags": [
           "本週末",
@@ -6454,7 +6812,7 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "台北 · 吉力酒藏 台北 信義安和 旗艦門市 (進行中・剩2天)",
+        "summary": "台北 · 吉力酒藏 台北 信義安和 旗艦門市 (進行中・明天結束)",
         "source_url": "https://wekengo.tw/event/DBDpPs/bu-gan-ji-mo-sui-mo-wei-jiu-zhan",
         "tags": [
           "本週末"
@@ -6484,7 +6842,7 @@
           "end": "2027-01-03"
         },
         "business_hours": "",
-        "summary": "台北 · 國立故宮博物院 (進行中・剩58天)",
+        "summary": "台北 · 國立故宮博物院 (進行中・剩57天)",
         "source_url": "https://wekengo.tw/event/pg5Kkl/bei-bu-yuan-qu-gen-zhu-wen-wu-xiu-hu-shi-chu-ren-wu-zhan-tin",
         "tags": [
           "本週末",
@@ -6577,7 +6935,7 @@
           "end": "2026-12-27"
         },
         "business_hours": "",
-        "summary": "新北 · 三猿廣場 (進行中・剩51天)",
+        "summary": "新北 · 三猿廣場 (進行中・剩50天)",
         "source_url": "https://wekengo.tw/event/tlWfyJ/2026-pan-duo-la-san-yuan-shi-ji",
         "tags": [
           "本週末",
@@ -6666,7 +7024,7 @@
           "end": "2026-11-12"
         },
         "business_hours": "",
-        "summary": "新北 · 平溪一見．菁桐 (進行中・剩6天)",
+        "summary": "新北 · 平溪一見．菁桐 (進行中・剩5天)",
         "source_url": "https://wekengo.tw/event/LeOxpH/ping-xi-qi-jian-xian-ding-ti-yan-tian-deng-shuang-chong-zou",
         "tags": [
           "本週末"
@@ -6696,7 +7054,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 西門紅樓-北廣場舞臺區 (進行中・明天結束)",
+        "summary": "台北 · 西門紅樓-北廣場舞臺區 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/kgecKT/2026ntso-jiao-xiang-pai-dui-jin-qu-jiao-xiang-sheng-dian",
         "tags": [
           "本週末"
@@ -6706,34 +7064,34 @@
     },
     {
       "type": "Feature",
-      "id": "4627252072b9",
+      "id": "c4cad4bb6653",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5367,
-          24.9542
+          121.536504,
+          24.955985
         ]
       },
       "properties": {
-        "title": "碧潭地景裝置展 遇見小王子漫遊碧潭間",
+        "title": "碧潭地景裝置展－遇見小王子 漫遊碧潭間",
         "category": "市集",
         "categories": [
           "市集",
           "戶外",
           "節慶"
         ],
-        "venue_name": "新北碧潭",
+        "venue_name": "新北市新店區碧潭風景區",
         "period": {
           "start": "2026-10-17",
           "end": "2026-12-13"
         },
         "business_hours": "",
-        "summary": "「碧潭地景裝置展」於新北碧潭浪漫登場，邀請法國經典人氣IP《小王子》化身寬達十九公尺的巨型划船造型氣偶現身水面。活動結合湖光山色與童話場景，現場規劃多處主題拍照區及開幕限定周邊兌換，並陸續推出在地走讀、音樂表演、野餐活動與閉幕煙火，邀請民眾重溫童年感動。",
-        "source_url": "https://strolltimes.com/events/new-taipei/261016084730/",
+        "summary": "新北 · 新北市新店區碧潭風景區 (進行中・剩36天)",
+        "source_url": "https://wekengo.tw/event/5VAdQZ/bi-tan-di-jing-zhuang-zhi-zhan-yu-jian-xiao-wang-zi-man-you",
         "tags": [
           "本週末"
         ],
-        "image_url": "https://strolltimes.com/events/new-taipei/261016084730.webp"
+        "image_url": "https://newtaipei.travel/content/images/articles/73717/articles-image-fac2xcvkbk6aws5f0623aa.jpg"
       }
     },
     {
@@ -6758,7 +7116,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · NOKE 忠泰樂生活 (進行中・明天結束)",
+        "summary": "台北 · NOKE 忠泰樂生活 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/CPh5Sr/noke-cheng-shi-ma-xi-dian-ying-yuan-meng-huan-qi-huan-shuang",
         "tags": [
           "本週末"
@@ -6788,7 +7146,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 文房文化閱讀空間 (進行中・明天結束)",
+        "summary": "台北 · 文房文化閱讀空間 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/6WJVgx/qiu-ji-xing-ting-zou-du-wo-men-de-qing-chun-wu-yu",
         "tags": [
           "本週末"
@@ -6819,7 +7177,7 @@
           "end": "2026-12-20"
         },
         "business_hours": "",
-        "summary": "新北 · IKEA宜家家居 新店店 (進行中・剩44天)",
+        "summary": "新北 · IKEA宜家家居 新店店 (進行中・剩43天)",
         "source_url": "https://wekengo.tw/event/8MGTR0/pan-duo-la-xin-dian-ikea",
         "tags": [
           "本週末"
@@ -7112,7 +7470,7 @@
           "end": "2026-11-30"
         },
         "business_hours": "",
-        "summary": "新北 · 林口三井OUTLET一館 3樓 威秀影城 (進行中・剩24天)",
+        "summary": "新北 · 林口三井OUTLET一館 3樓 威秀影城 (進行中・剩23天)",
         "source_url": "https://wekengo.tw/event/CP7mSr/mitsuioutletpark-lin-kou-zhi-shi-ji-shi-qiu-cang-dong",
         "tags": [
           "本週末"
@@ -7142,7 +7500,7 @@
           "end": "2027-08-29"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市美術館 – 探索基地 L1、L2 (進行中・剩296天)",
+        "summary": "新北 · 新北市美術館 – 探索基地 L1、L2 (進行中・剩295天)",
         "source_url": "https://wekengo.tw/event/5g26QZ/dong-li-meng-gong-chang",
         "tags": [
           "本週末",
@@ -7175,7 +7533,7 @@
           "end": "2027-02-21"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立美術館 兒童藝術教育中心 (進行中・剩107天)",
+        "summary": "台北 · 臺北市立美術館 兒童藝術教育中心 (進行中・剩106天)",
         "source_url": "https://wekengo.tw/event/txKxyJ/ispylove-fa-xian-ai",
         "tags": [
           "本週末",
@@ -7211,7 +7569,7 @@
           "end": "2026-11-11"
         },
         "business_hours": "",
-        "summary": "新北 · 雙溪高中 (進行中・剩5天)",
+        "summary": "新北 · 雙溪高中 (進行中・剩4天)",
         "source_url": "https://wekengo.tw/event/YUxBET/2026-xin-bei-shan-yao-jie",
         "tags": [
           "本週末"
@@ -7242,12 +7600,43 @@
           "end": "2026-11-08"
         },
         "business_hours": "",
-        "summary": "新北 · 新海二期人工濕地 (進行中・剩2天)",
+        "summary": "新北 · 新海二期人工濕地 (進行中・明天結束)",
         "source_url": "https://wekengo.tw/event/Z7J8MU/2026-xin-bei-shi-di-yi-shu-ji-meng-ya-zhi-jing",
         "tags": [
           "本週末"
         ],
         "image_url": "https://newtaipei.travel/content/images/articles/73500/articles-image-0ykrkyu-su2kc9giypmznw.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e61cce43d593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.436993,
+          25.064748
+        ]
+      },
+      "properties": {
+        "title": "2026泰山蒜香藤花季",
+        "category": "節慶",
+        "categories": [
+          "戶外",
+          "節慶"
+        ],
+        "venue_name": "新北市泰山區楓樹河濱公園",
+        "period": {
+          "start": "2026-10-02",
+          "end": "2026-11-15"
+        },
+        "business_hours": "",
+        "summary": "新北 · 新北市泰山區楓樹河濱公園 (進行中・剩8天)",
+        "source_url": "https://wekengo.tw/event/2Un0Y5/2026-tai-shan-suan-xiang-teng-hua-ji",
+        "tags": [
+          "本週末"
+        ],
+        "image_url": "https://newtaipei.travel/content/images/articles/73827/articles-image-w0h2ieczpk6uhn0jinlqhw.png"
       }
     },
     {
@@ -7304,7 +7693,7 @@
           "end": "2027-01-03"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立美術館 二樓2A、二樓2B (進行中・剩58天)",
+        "summary": "台北 · 臺北市立美術館 二樓2A、二樓2B (進行中・剩57天)",
         "source_url": "https://wekengo.tw/event/M79qny/ding-shi-dao-lan-wang-ya-hui-lv-xing-zhe",
         "tags": [
           "本週末",
@@ -7337,7 +7726,7 @@
           "end": "2027-03-07"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市美術館 – 探索基地 L3 (進行中・剩121天)",
+        "summary": "新北 · 新北市美術館 – 探索基地 L3 (進行中・剩120天)",
         "source_url": "https://wekengo.tw/event/QHrKA4/xin-peng-you",
         "tags": [
           "本週末",
@@ -7372,7 +7761,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市萬里區野柳漁港藍色候船亭、富基漁港、龜吼漁夫市集 (進行中・剩23天)",
+        "summary": "新北 · 新北市萬里區野柳漁港藍色候船亭、富基漁港、龜吼漁夫市集 (進行中・剩22天)",
         "source_url": "https://wekengo.tw/event/k6XBKT/2026-xin-bei-hai-pai",
         "tags": [
           "本週末"
@@ -7403,7 +7792,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "新北 · 野柳漁港 (進行中・剩23天)",
+        "summary": "新北 · 野柳漁港 (進行中・剩22天)",
         "source_url": "https://wekengo.tw/event/H0psVt/2026-xin-bei-wan-li-xie-ji",
         "tags": [
           "本週末"
@@ -7433,7 +7822,7 @@
           "end": "2026-11-21"
         },
         "business_hours": "",
-        "summary": "台北 · 龍山寺捷運站 (進行中・剩15天)",
+        "summary": "台北 · 龍山寺捷運站 (進行中・剩14天)",
         "source_url": "https://wekengo.tw/event/QVo8A4/2026-man-bu-meng-xia-meng-xia-ye-wei-mian-lu-deng-xia-de-che",
         "tags": [
           "本週末"
@@ -7464,7 +7853,7 @@
           "end": "2026-11-30"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立動物園 (進行中・剩24天)",
+        "summary": "台北 · 臺北市立動物園 (進行中・剩23天)",
         "source_url": "https://wekengo.tw/event/4haOlu/2026-ma-nian-te-zhan-huo-si-ban-an-dong-wu-yuan-chuang-guan",
         "tags": [
           "本週末"
@@ -7494,7 +7883,7 @@
           "end": "2026-11-29"
         },
         "business_hours": "",
-        "summary": "台北 · 郵政博物館 (進行中・剩23天)",
+        "summary": "台北 · 郵政博物館 (進行中・剩22天)",
         "source_url": "https://wekengo.tw/event/aSEWtN/you-zheng-bo-wu-guan-oh-hai-you-hai-yang-sheng-wu-you-piao-t",
         "tags": [
           "本週末"
@@ -7524,7 +7913,7 @@
           "end": "2026-12-18"
         },
         "business_hours": "",
-        "summary": "台北 · 國立歷史博物館 (進行中・剩42天)",
+        "summary": "台北 · 國立歷史博物館 (進行中・剩41天)",
         "source_url": "https://wekengo.tw/event/nOd4qf/wo-yu-ku-shou-de-da-mao-xian-xiang-xiang-bo-wu-guan-shi-jing",
         "tags": [
           "本週末"
@@ -7555,7 +7944,7 @@
           "end": "2027-06-30"
         },
         "business_hours": "",
-        "summary": "新北 · 新北市 金山萬里溫泉區臺北市 北投區 紗帽山溫泉區臺北市 北投區 新北投溫泉區臺北市 北投區 陽明山溫泉區新北市 烏來區 烏來溫泉區宜蘭縣 礁溪鄉 礁溪溫泉區新竹縣 尖石鄉 內灣尖石溫泉區苗栗縣 泰安鄉 泰安溫泉區臺中市 烏日區 烏日溫泉區臺中市 和平區 谷關溫泉區臺中市 北屯區 大坑溫泉區南投縣 國姓鄉 北港溪溫泉區南投縣 信義鄉 東埔溫泉區臺南市 白河區 關子嶺溫泉區高雄市 六龜區 寶來不老溫泉區屏東縣 車城鄉 四重溪溫泉區臺東縣 卑南鄉 知本溫泉區花蓮縣 瑞穗鄉 瑞穗溫泉區花蓮縣 玉里鎮 安通溫泉區 (進行中・剩236天)",
+        "summary": "新北 · 新北市 金山萬里溫泉區臺北市 北投區 紗帽山溫泉區臺北市 北投區 新北投溫泉區臺北市 北投區 陽明山溫泉區新北市 烏來區 烏來溫泉區宜蘭縣 礁溪鄉 礁溪溫泉區新竹縣 尖石鄉 內灣尖石溫泉區苗栗縣 泰安鄉 泰安溫泉區臺中市 烏日區 烏日溫泉區臺中市 和平區 谷關溫泉區臺中市 北屯區 大坑溫泉區南投縣 國姓鄉 北港溪溫泉區南投縣 信義鄉 東埔溫泉區臺南市 白河區 關子嶺溫泉區高雄市 六龜區 寶來不老溫泉區屏東縣 車城鄉 四重溪溫泉區臺東縣 卑南鄉 知本溫泉區花蓮縣 瑞穗鄉 瑞穗溫泉區花蓮縣 玉里鎮 安通溫泉區 (進行中・剩235天)",
         "source_url": "https://wekengo.tw/event/gnU9HJ/20262027-tai-wan-hao-tang-wen-quan-mei-shi-jia-nian-hua",
         "tags": [
           "本週末",
@@ -7588,7 +7977,7 @@
           "end": "2026-12-31"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市兒童新樂園 (進行中・剩55天)",
+        "summary": "台北 · 臺北市兒童新樂園 (進行中・剩54天)",
         "source_url": "https://wekengo.tw/event/8bnYR0/yuan-qu-huo-dong-gong-gao-tai-bei-shi-zheng-fu-jing-jun-huo",
         "tags": [
           "本週末",
@@ -7620,7 +8009,7 @@
           "end": "2026-11-07"
         },
         "business_hours": "",
-        "summary": "台北 · 國家文化基地－空總臺灣當代文化實驗場 (進行中・明天結束)",
+        "summary": "台北 · 國家文化基地－空總臺灣當代文化實驗場 (進行中・今天結束)",
         "source_url": "https://wekengo.tw/event/b11MZn/goodluck-gu-li-tai-wan-zhan-lan-xi-lie-zou-du",
         "tags": [
           "本週末"
@@ -7650,7 +8039,7 @@
           "end": "2026-11-30"
         },
         "business_hours": "",
-        "summary": "台北 · 龍山寺捷運站3號出口 (進行中・剩24天)",
+        "summary": "台北 · 龍山寺捷運站3號出口 (進行中・剩23天)",
         "source_url": "https://wekengo.tw/event/JvHuaE/2026-man-bu-meng-xia-lao-dian-gu-miao-hao-wei-dao-xiang-huo",
         "tags": [
           "本週末"
@@ -7680,7 +8069,7 @@
           "end": "2027-01-03"
         },
         "business_hours": "",
-        "summary": "台北 · 郵政博物館臺北館 (進行中・剩58天)",
+        "summary": "台北 · 郵政博物館臺北館 (進行中・剩57天)",
         "source_url": "https://wekengo.tw/event/U5yaLW/cong-qian-cong-qian-hui-shuo-tong-hua-you-piao-te-zhan",
         "tags": [
           "本週末",
@@ -7713,7 +8102,7 @@
           "end": "2026-11-28"
         },
         "business_hours": "",
-        "summary": "台北 · 臺灣當代文化實驗場 C-LAB (進行中・剩22天)",
+        "summary": "台北 · 臺灣當代文化實驗場 C-LAB (進行中・剩21天)",
         "source_url": "https://wekengo.tw/event/DcboPs/2026clab-chuang-yi-gong-fang-gu-ji-yu-xin-sheng",
         "tags": [
           "本週末"
@@ -7743,7 +8132,7 @@
           "end": "2026-12-31"
         },
         "business_hours": "",
-        "summary": "台北 · 國立臺灣博物館 (進行中・剩55天)",
+        "summary": "台北 · 國立臺灣博物館 (進行中・剩54天)",
         "source_url": "https://wekengo.tw/event/8t8R0I/tie-dao-wen-hua-chang-she-zhan",
         "tags": [
           "本週末",
@@ -7776,7 +8165,7 @@
           "end": "2027-02-21"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市北投區知行路360-1號 (進行中・剩107天)",
+        "summary": "台北 · 臺北市北投區知行路360-1號 (進行中・剩106天)",
         "source_url": "https://wekengo.tw/event/lNGhiG/kong-long-da-fu-huo-guan-du-tan-xian-le-yuan",
         "tags": [
           "本週末",
@@ -7809,7 +8198,7 @@
           "end": "2027-04-30"
         },
         "business_hours": "",
-        "summary": "台北 · 臺北市立動物園昆蟲館 (進行中・剩175天)",
+        "summary": "台北 · 臺北市立動物園昆蟲館 (進行中・剩174天)",
         "source_url": "https://wekengo.tw/event/QO5A48/kan-ni-shen-me-zui-lian-kun-chong-de-tou-deng-da-shi-te-zhan",
         "tags": [
           "本週末",
@@ -7842,7 +8231,7 @@
           "end": "2027-12-31"
         },
         "business_hours": "",
-        "summary": "台北 · 國立臺灣科學教育館 (進行中・剩420天)",
+        "summary": "台北 · 國立臺灣科學教育館 (進行中・剩419天)",
         "source_url": "https://wekengo.tw/event/ZsBMUP/ji-zhi-fun-xing-ji",
         "tags": [
           "本週末",
